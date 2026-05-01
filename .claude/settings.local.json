@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:monteroshardwoodflooring.com)",
+      "WebFetch(domain:spflooringsupply.com)",
+      "mcp__claude_ai_Google_Drive__search_files",
+      "mcp__claude_ai_Google_Drive__download_file_content",
+      "PowerShell(powershell -ExecutionPolicy Bypass -File \"scripts\\\\decode-images.ps1\")",
+      "PowerShell(npm install *)",
+      "Skill(schedule)",
+      "Bash(gh auth *)",
+      "PowerShell(gh auth *)",
+      "PowerShell(winget install *)",
+      "PowerShell(gh *)",
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" auth status)",
+      "Bash(export PATH=\"$PATH:/c/Program Files/GitHub CLI\")",
+      "Bash(gh repo *)",
+      "Bash(python -c \"import uuid; print\\(uuid.uuid4\\(\\)\\)\")",
+      "Bash(powershell -Command \"[guid]::NewGuid\\(\\).ToString\\(\\).ToLower\\(\\)\")"
+    ]
+  }
+}

@@ -27,6 +27,7 @@ $mapping = @{
   "1b-USg7NhoajZlbCQCKjrF4MFqBRfAKP7" = "hardwood-staircase-installation.webp"
   "1LpDkyUAaIW1pLKQlC8HdVd0SwqwWvRZe" = "monteros-owner-portrait.webp"
   "1clOLg_4wZEh3ZJhHNlPYiQ-VNBUw7rOd" = "monteros-hardwood-flooring-logo.webp"
+  "1Xj4Zc2g24zlgDQrXfkxoKs75FEjQ36Cv" = "hero.webp"
 }
 
 $written = 0
