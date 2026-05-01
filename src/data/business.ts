@@ -44,8 +44,9 @@ export const business = {
   social: {
     facebook:  'https://www.facebook.com/people/Monteros-hardwood-flooring/100021212805249/',
     instagram: 'https://www.instagram.com/monteroshardwood/',
-    google:    '', // GMB profile URL - fill in before launch
-    yelp:      '', // fill in before launch
+    google:    'https://share.google/sDPf41rhQdhTiXxr2',
+    yelp:      'https://www.yelp.com/biz/monteros-hardwood-flooring-san-bernardino-2',
+    angi:      'https://www.angi.com/companylist/us/ca/san-bernardino/monteros-hardwood-flooring-reviews-9322310.htm',
   },
 
   // Service area covered for LocalBusiness schema.
