@@ -5,13 +5,15 @@ import ServiceGrid from '~/components/ServiceGrid.astro';
 import TrustBar from '~/components/TrustBar.astro';
 import CTABanner from '~/components/CTABanner.astro';
 import Breadcrumbs from '~/components/Breadcrumbs.astro';
-import { breadcrumbSchema } from '~/lib/schema';
+import { breadcrumbSchema, faqSchema } from '~/lib/schema';
+import FAQ from '~/components/FAQ.astro';
+import { generalFaqs } from '~/data/faqs';
 
 const crumbs = [
   { name: 'Home', href: '/' },
   { name: 'Services', href: '/services/' },
 ];
-const schemas = [breadcrumbSchema(crumbs)];
+const schemas = [breadcrumbSchema(crumbs), faqSchema(generalFaqs)];
 ---
 <BaseLayout
   title="Our Flooring Services"
@@ -29,5 +31,6 @@ const schemas = [breadcrumbSchema(crumbs)];
   <TrustBar />
   <section class="container-wide pt-10"><Breadcrumbs items={crumbs} /></section>
   <ServiceGrid />
+  <FAQ faqs={generalFaqs} />
   <CTABanner />
 </BaseLayout>

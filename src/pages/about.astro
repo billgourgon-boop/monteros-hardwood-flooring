@@ -4,10 +4,12 @@ import Hero from '~/components/Hero.astro';
 import TrustBar from '~/components/TrustBar.astro';
 import CTABanner from '~/components/CTABanner.astro';
 import Breadcrumbs from '~/components/Breadcrumbs.astro';
-import { breadcrumbSchema } from '~/lib/schema';
+import FAQ from '~/components/FAQ.astro';
+import { breadcrumbSchema, faqSchema } from '~/lib/schema';
+import { generalFaqs } from '~/data/faqs';
 import { business } from '~/data/business';
 const crumbs = [{ name: 'Home', href: '/' }, { name: 'About', href: '/about/' }];
-const schemas = [breadcrumbSchema(crumbs)];
+const schemas = [breadcrumbSchema(crumbs), faqSchema(generalFaqs)];
 ---
 <BaseLayout
   title={`About ${business.brandName} | Family-Owned for ${business.yearsInBusiness}+ Years`}
@@ -19,8 +21,8 @@ const schemas = [breadcrumbSchema(crumbs)];
     eyebrow="About Us"
     title={`Family-Owned. Inland Empire-Rooted. ${business.yearsInBusiness}+ Years.`}
     subtitle={`Meet the ${business.brandName} family - the crew Inland Empire homeowners trust to install, refinish, and repair their hardwood floors.`}
-    image="/images/monteros-flooring-team.webp"
-    alt={`The ${business.brandName} family flooring crew, serving the Inland Empire`}
+    image="/images/monteros-flooring-team-installation.webp"
+    alt={`The ${business.brandName} crew installing hardwood floors in an Inland Empire home`}
     ratingBadge={false}
   />
   <TrustBar />
@@ -69,5 +71,6 @@ const schemas = [breadcrumbSchema(crumbs)];
     </div>
   </section>
 
+  <FAQ faqs={generalFaqs} />
   <CTABanner />
 </BaseLayout>

@@ -4,13 +4,15 @@ import { services } from '~/data/services';
 import { cities } from '~/data/cities';
 ---
 
-<header class="sticky top-0 z-40 bg-white/95 backdrop-blur border-b border-slate-200">
+<header class="sticky top-0 z-40 bg-white/95 backdrop-blur border-b-2 border-brand-100 shadow-sm">
   <div class="container-wide flex items-center justify-between h-[var(--header-h)]">
-    <a href="/" class="flex items-center gap-3" aria-label={`${business.brandName} home`}>
-      <img src={business.brand.logo} alt="" width="40" height="40" loading="eager" decoding="async" class="h-10 w-10 rounded-md bg-white p-1 ring-1 ring-slate-200" />
+    <a href="/" class="flex items-center gap-3 group" aria-label={`${business.brandName} home`}>
+      <span class="relative inline-flex items-center justify-center h-16 w-16 md:h-[72px] md:w-[72px] rounded-2xl bg-white ring-2 ring-brand-200 shadow-md transition-transform duration-300 group-hover:scale-105 group-hover:ring-brand-400">
+        <img src={business.brand.logo} alt={`${business.brandName} logo`} width="60" height="60" loading="eager" decoding="async" class="h-12 w-12 md:h-14 md:w-14 object-contain" />
+      </span>
       <div class="leading-tight">
-        <div class="font-display text-lg font-bold text-brand-900">{business.shortName}</div>
-        <div class="text-[11px] uppercase tracking-wider text-brand-700 font-semibold">Hardwood Flooring</div>
+        <div class="font-display text-xl md:text-2xl font-extrabold text-brand-900 tracking-tight">{business.shortName}</div>
+        <div class="text-[11px] md:text-xs uppercase tracking-[0.18em] text-brand-600 font-semibold">Hardwood Flooring</div>
       </div>
     </a>
 

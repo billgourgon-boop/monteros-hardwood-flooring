@@ -6,7 +6,9 @@ import AreaGrid from '~/components/AreaGrid.astro';
 import CTABanner from '~/components/CTABanner.astro';
 import Breadcrumbs from '~/components/Breadcrumbs.astro';
 import GoogleMap from '~/components/GoogleMap.astro';
-import { breadcrumbSchema } from '~/lib/schema';
+import { breadcrumbSchema, faqSchema } from '~/lib/schema';
+import FAQ from '~/components/FAQ.astro';
+import { generalFaqs } from '~/data/faqs';
 import { business } from '~/data/business';
 import { cities } from '~/data/cities';
 
@@ -14,7 +16,7 @@ const crumbs = [
   { name: 'Home', href: '/' },
   { name: 'Areas We Serve', href: '/areas-we-serve/' },
 ];
-const schemas = [breadcrumbSchema(crumbs)];
+const schemas = [breadcrumbSchema(crumbs), faqSchema(generalFaqs)];
 ---
 <BaseLayout
   title="Areas We Serve | Inland Empire Flooring"
@@ -44,5 +46,6 @@ const schemas = [breadcrumbSchema(crumbs)];
   </section>
 
   <AreaGrid heading="Cities We Serve" />
+  <FAQ faqs={generalFaqs} />
   <CTABanner />
 </BaseLayout>

@@ -5,10 +5,12 @@ import TrustBar from '~/components/TrustBar.astro';
 import ProcessSteps from '~/components/ProcessSteps.astro';
 import CTABanner from '~/components/CTABanner.astro';
 import Breadcrumbs from '~/components/Breadcrumbs.astro';
-import { breadcrumbSchema } from '~/lib/schema';
+import { breadcrumbSchema, faqSchema } from '~/lib/schema';
+import FAQ from '~/components/FAQ.astro';
+import { generalFaqs } from '~/data/faqs';
 
 const crumbs = [{ name: 'Home', href: '/' }, { name: 'Our Process', href: '/process/' }];
-const schemas = [breadcrumbSchema(crumbs)];
+const schemas = [breadcrumbSchema(crumbs), faqSchema(generalFaqs)];
 
 const fullProcess = [
   { step: 'Initial call or form', detail: 'You reach out by phone, web form, or email. We respond within one business day.' },
@@ -39,5 +41,6 @@ const fullProcess = [
   <TrustBar />
   <section class="container-wide pt-10"><Breadcrumbs items={crumbs} /></section>
   <ProcessSteps steps={fullProcess} heading="The Full 9-Step Process" subheading="Every project follows the same predictable steps from estimate through warranty." />
+  <FAQ faqs={generalFaqs} />
   <CTABanner />
 </BaseLayout>

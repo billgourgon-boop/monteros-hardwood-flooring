@@ -4,10 +4,12 @@ import Hero from '~/components/Hero.astro';
 import TrustBar from '~/components/TrustBar.astro';
 import CTABanner from '~/components/CTABanner.astro';
 import Breadcrumbs from '~/components/Breadcrumbs.astro';
-import { breadcrumbSchema } from '~/lib/schema';
+import { breadcrumbSchema, faqSchema } from '~/lib/schema';
+import FAQ from '~/components/FAQ.astro';
+import { generalFaqs } from '~/data/faqs';
 import { business } from '~/data/business';
 const crumbs = [{ name: 'Home', href: '/' }, { name: 'Warranty', href: '/warranty/' }];
-const schemas = [breadcrumbSchema(crumbs)];
+const schemas = [breadcrumbSchema(crumbs), faqSchema(generalFaqs)];
 ---
 <BaseLayout
   title="Lifetime Workmanship Warranty | Monteros Hardwood Flooring"
@@ -67,5 +69,6 @@ const schemas = [breadcrumbSchema(crumbs)];
     </div>
   </section>
 
+  <FAQ faqs={generalFaqs} />
   <CTABanner />
 </BaseLayout>

@@ -4,7 +4,9 @@ import Hero from '~/components/Hero.astro';
 import Breadcrumbs from '~/components/Breadcrumbs.astro';
 import CTABanner from '~/components/CTABanner.astro';
 import { blogPosts } from '~/data/blog';
-import { breadcrumbSchema } from '~/lib/schema';
+import { breadcrumbSchema, faqSchema } from '~/lib/schema';
+import FAQ from '~/components/FAQ.astro';
+import { generalFaqs } from '~/data/faqs';
 import { formatDate } from '~/lib/formatting';
 
 const posts = [...blogPosts].sort((a, b) => b.date.localeCompare(a.date));
@@ -12,7 +14,7 @@ const crumbs = [
   { name: 'Home', href: '/' },
   { name: 'Blog', href: '/blog/' },
 ];
-const schemas = [breadcrumbSchema(crumbs)];
+const schemas = [breadcrumbSchema(crumbs), faqSchema(generalFaqs)];
 ---
 <BaseLayout
   title="Flooring Blog | Inland Empire Hardwood Tips & Guides"
@@ -50,5 +52,6 @@ const schemas = [breadcrumbSchema(crumbs)];
     </div>
   </section>
 
+  <FAQ faqs={generalFaqs} />
   <CTABanner />
 </BaseLayout>

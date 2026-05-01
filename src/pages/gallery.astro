@@ -4,9 +4,11 @@ import Hero from '~/components/Hero.astro';
 import TrustBar from '~/components/TrustBar.astro';
 import CTABanner from '~/components/CTABanner.astro';
 import Breadcrumbs from '~/components/Breadcrumbs.astro';
-import { breadcrumbSchema } from '~/lib/schema';
+import { breadcrumbSchema, faqSchema } from '~/lib/schema';
+import FAQ from '~/components/FAQ.astro';
+import { generalFaqs } from '~/data/faqs';
 const crumbs = [{ name: 'Home', href: '/' }, { name: 'Gallery', href: '/gallery/' }];
-const schemas = [breadcrumbSchema(crumbs)];
+const schemas = [breadcrumbSchema(crumbs), faqSchema(generalFaqs)];
 
 const gallery = [
   { src: '/images/hardwood-flooring-installation.webp', alt: 'Hardwood floor installation in an Inland Empire home', label: 'Hardwood Installation' },
@@ -52,5 +54,6 @@ const gallery = [
     </div>
   </section>
 
+  <FAQ faqs={generalFaqs} />
   <CTABanner />
 </BaseLayout>
