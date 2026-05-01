@@ -30,15 +30,15 @@
   .container-wide   { @apply mx-auto max-w-7xl px-5 md:px-8; }
   .container-prose  { @apply mx-auto max-w-prose px-5 md:px-6; }
 
-  .btn { @apply inline-flex items-center justify-center gap-2 rounded-lg px-5 py-3 font-semibold text-sm transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2; }
-  .btn-primary { @apply btn bg-brand-700 text-white hover:bg-brand-800 focus:ring-brand-500; }
-  .btn-secondary { @apply btn bg-white text-brand-800 border border-brand-300 hover:bg-brand-50 focus:ring-brand-500; }
-  .btn-outline { @apply btn border-2 border-white text-white hover:bg-white hover:text-brand-800 focus:ring-white; }
+  .btn { @apply inline-flex items-center justify-center gap-2 rounded-lg px-5 py-3 font-semibold text-sm transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-offset-2 will-change-transform; }
+  .btn-primary { @apply btn bg-brand-700 text-white hover:bg-brand-800 hover:-translate-y-0.5 hover:shadow-lg hover:shadow-brand-700/30 focus:ring-brand-500; }
+  .btn-secondary { @apply btn bg-white text-brand-800 border border-brand-300 hover:bg-brand-50 hover:-translate-y-0.5 hover:shadow-md focus:ring-brand-500; }
+  .btn-outline { @apply btn border-2 border-white text-white hover:bg-white hover:text-brand-800 hover:-translate-y-0.5 focus:ring-white; }
   .btn-ghost { @apply btn text-brand-800 hover:bg-brand-50 focus:ring-brand-500; }
-  .btn-cta { @apply btn bg-wood-500 text-white hover:bg-wood-600 focus:ring-wood-400; }
+  .btn-cta { @apply btn bg-brand-500 text-white hover:bg-brand-600 hover:-translate-y-0.5 hover:shadow-lg hover:shadow-brand-500/40 focus:ring-brand-400; }
 
   .badge { @apply inline-flex items-center gap-1 rounded-full bg-brand-50 px-3 py-1 text-xs font-semibold text-brand-800; }
-  .card  { @apply rounded-xl border border-slate-200 bg-white shadow-sm hover:shadow-md transition-shadow; }
+  .card  { @apply rounded-xl border border-slate-200 bg-white shadow-sm hover:shadow-xl hover:-translate-y-1 hover:border-brand-300 transition-all duration-300 will-change-transform; }
 
   .prose-brand {
     @apply prose prose-slate max-w-none
@@ -54,3 +54,59 @@
   }
   .text-balance { text-wrap: balance; }
 }
+
+/* ───── Scroll-reveal system ───── */
+[data-reveal] {
+  opacity: 0;
+  transform: translateY(40px);
+  transition: opacity 0.9s cubic-bezier(0.22, 1, 0.36, 1), transform 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: opacity, transform;
+}
+[data-reveal="left"]  { transform: translateX(-60px); }
+[data-reveal="right"] { transform: translateX(60px); }
+[data-reveal="zoom"]  { transform: scale(0.92); }
+[data-reveal].is-visible {
+  opacity: 1;
+  transform: translate(0, 0) scale(1);
+}
+[data-reveal-delay="100"] { transition-delay: 0.1s; }
+[data-reveal-delay="200"] { transition-delay: 0.2s; }
+[data-reveal-delay="300"] { transition-delay: 0.3s; }
+[data-reveal-delay="400"] { transition-delay: 0.4s; }
+[data-reveal-delay="500"] { transition-delay: 0.5s; }
+
+@media (prefers-reduced-motion: reduce) {
+  [data-reveal] { opacity: 1; transform: none; transition: none; }
+}
+
+/* ───── Hero Ken-Burns slow zoom ───── */
+@keyframes hero-kenburns {
+  0%   { transform: scale(1.05) translate(0, 0); }
+  100% { transform: scale(1.18) translate(-2%, -1%); }
+}
+.hero-kenburns { animation: hero-kenburns 22s ease-out forwards; }
+
+/* ───── Floating CTA pill ───── */
+.float-cta {
+  @apply fixed bottom-5 right-5 z-40 inline-flex items-center gap-2 rounded-full bg-brand-600 text-white px-5 py-3 text-sm font-semibold shadow-2xl shadow-brand-900/40
+    opacity-0 translate-y-6 pointer-events-none transition-all duration-300 hover:bg-brand-700 hover:scale-105;
+}
+.float-cta.is-visible { @apply opacity-100 translate-y-0 pointer-events-auto; }
+
+/* ───── Scroll progress bar ───── */
+.scroll-progress {
+  position: fixed; top: 0; left: 0; right: 0; height: 3px; z-index: 60;
+  background: linear-gradient(90deg, theme('colors.brand.500'), theme('colors.brand.300'));
+  transform-origin: 0 50%; transform: scaleX(0); transition: transform 0.1s linear;
+}
+
+/* ───── Subtle floating decor ───── */
+@keyframes drift {
+  0%, 100% { transform: translateY(0); }
+  50%      { transform: translateY(-12px); }
+}
+.drift { animation: drift 6s ease-in-out infinite; }
+
+/* ───── Image hover zoom helper ───── */
+.img-zoom { @apply transition-transform duration-700 ease-out; }
+.group:hover .img-zoom { transform: scale(1.08); }

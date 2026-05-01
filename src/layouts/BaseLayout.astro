@@ -73,11 +73,86 @@ const ldJson = [
     ))}
   </head>
   <body class={bodyClass}>
+    <div class="scroll-progress" id="scroll-progress" aria-hidden="true"></div>
     <a href="#main" class="skip-link">Skip to main content</a>
     <Header />
     <main id="main" tabindex="-1">
       <slot />
     </main>
     <Footer />
+
+    <a href="/contact/" class="float-cta" id="float-cta" aria-label="Get a free flooring estimate">
+      <svg class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor"><path d="M10 2a8 8 0 100 16 8 8 0 000-16zm1 5a1 1 0 10-2 0v3H7a1 1 0 100 2h2v3a1 1 0 102 0v-3h2a1 1 0 100-2h-2V7z"/></svg>
+      Free Estimate
+    </a>
+
+    <script is:inline>
+      (function () {
+        const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+        // Scroll-reveal
+        const els = document.querySelectorAll('[data-reveal]');
+        if (reduce) {
+          els.forEach((el) => el.classList.add('is-visible'));
+        } else if ('IntersectionObserver' in window) {
+          const io = new IntersectionObserver((entries) => {
+            entries.forEach((e) => {
+              if (e.isIntersecting) {
+                e.target.classList.add('is-visible');
+                io.unobserve(e.target);
+              }
+            });
+          }, { threshold: 0.12, rootMargin: '0px 0px -8% 0px' });
+          els.forEach((el) => io.observe(el));
+        } else {
+          els.forEach((el) => el.classList.add('is-visible'));
+        }
+
+        // Scroll progress bar
+        const bar = document.getElementById('scroll-progress');
+        const cta = document.getElementById('float-cta');
+        let ticking = false;
+        function onScroll() {
+          if (ticking) return;
+          ticking = true;
+          requestAnimationFrame(() => {
+            const h = document.documentElement;
+            const max = h.scrollHeight - h.clientHeight;
+            const pct = max > 0 ? h.scrollTop / max : 0;
+            if (bar) bar.style.transform = 'scaleX(' + pct + ')';
+            if (cta) cta.classList.toggle('is-visible', h.scrollTop > 600);
+            ticking = false;
+          });
+        }
+        document.addEventListener('scroll', onScroll, { passive: true });
+        onScroll();
+
+        // Animated counter on TrustBar numbers
+        const counters = document.querySelectorAll('[data-counter]');
+        if (!reduce && 'IntersectionObserver' in window) {
+          const cio = new IntersectionObserver((entries) => {
+            entries.forEach((e) => {
+              if (!e.isIntersecting) return;
+              const el = e.target;
+              const target = parseFloat(el.dataset.counter);
+              const suffix = el.dataset.counterSuffix || '';
+              const decimals = (el.dataset.counter.split('.')[1] || '').length;
+              const dur = 1400;
+              const start = performance.now();
+              function tick(now) {
+                const t = Math.min(1, (now - start) / dur);
+                const eased = 1 - Math.pow(1 - t, 3);
+                const v = (target * eased).toFixed(decimals);
+                el.textContent = v + suffix;
+                if (t < 1) requestAnimationFrame(tick);
+              }
+              requestAnimationFrame(tick);
+              cio.unobserve(el);
+            });
+          }, { threshold: 0.6 });
+          counters.forEach((el) => cio.observe(el));
+        }
+      })();
+    </script>
   </body>
 </html>
