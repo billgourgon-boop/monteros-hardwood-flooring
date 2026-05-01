@@ -835,9 +835,11 @@ Even in dry Southern California, slab basements can wick moisture from the surro
     metaTitle: 'Commercial Flooring Installation | Inland Empire',
     metaDesc: 'Commercial flooring installation across the Inland Empire. Offices, retail, restaurants — durable LVP, laminate, and hardwood. Free estimates.',
     intro: 'Commercial flooring for offices, retail, restaurants, and small commercial spaces across the Inland Empire.',
-    image: '/images/commercial-flooring-installation.webp',
-    alt: 'Commercial flooring installation in an Inland Empire business',
+    image: '/images/hero.webp',
+    alt: 'Wide-angle view of a large commercial space with wood-look flooring installed by Monteros',
     body: `Commercial flooring requires different priorities than residential — heavy traffic, abrasion resistance, fast install windows, and clean aesthetics that hold up to thousands of footsteps a day.
+
+![Commercial wood floor refinishing in a gymnasium-scale Inland Empire space](/images/commercial-flooring-installation.webp)
 
 ## Our commercial work
 
