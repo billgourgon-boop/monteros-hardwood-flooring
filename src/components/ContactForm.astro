@@ -6,7 +6,7 @@ const { defaultService = '', defaultCity = '' } = Astro.props as Props;
 const action = `https://formspree.io/f/${business.formspreeId}`;
 ---
 <form action={action} method="POST" class="space-y-5">
-  <input type="hidden" name="_subject" value={`New estimate request — ${business.brandName}`} />
+  <input type="hidden" name="_subject" value={`New estimate request - ${business.brandName}`} />
   <input type="hidden" name="_redirect" value={`${business.siteUrl}/thank-you/`} />
   <div class="grid md:grid-cols-2 gap-4">
     <label class="block">
@@ -30,7 +30,7 @@ const action = `https://formspree.io/f/${business.formspreeId}`;
     <label class="block">
       <span class="text-sm font-semibold text-slate-700">Service Interested In</span>
       <select name="service" class="mt-1 w-full rounded-lg border border-slate-300 px-3 py-2.5 focus:ring-2 focus:ring-brand-500 focus:border-brand-500">
-        <option value="">— Select —</option>
+        <option value="">- Select -</option>
         {services.map((s) => (
           <option value={s.name} selected={s.slug === defaultService}>{s.name}</option>
         ))}

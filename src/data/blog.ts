@@ -22,7 +22,7 @@ export const blogPosts: BlogPost[] = [
     title: 'What Hardwood Floor Installation Actually Costs in the Inland Empire (2026)',
     metaTitle: 'Hardwood Floor Installation Cost in the Inland Empire (2026)',
     metaDesc: 'Real installed prices for hardwood floors in San Bernardino, Riverside, and surrounding cities. Solid vs engineered, materials breakdown, what drives cost up.',
-    excerpt: 'A no-fluff breakdown of what hardwood actually costs installed in the Inland Empire — materials, labor, demo, and the surprises that shift the number.',
+    excerpt: 'A no-fluff breakdown of what hardwood actually costs installed in the Inland Empire - materials, labor, demo, and the surprises that shift the number.',
     date: '2026-04-12',
     category: 'cost',
     image: '/images/hardwood-flooring-installation.webp',
@@ -34,10 +34,10 @@ export const blogPosts: BlogPost[] = [
 
 A square-foot install price typically includes:
 
-- **Materials** — the planks themselves, plus underlayment, moisture barrier, fasteners, and trim.
-- **Labor** — demo of existing floor, subfloor prep, install, and finish carpentry around transitions.
-- **Disposal** — haul-away of old flooring (almost always included; ask).
-- **Acclimation time** — 3 to 5 days where boards sit in your home before install. No labor cost, but it's part of the timeline.
+- **Materials** - the planks themselves, plus underlayment, moisture barrier, fasteners, and trim.
+- **Labor** - demo of existing floor, subfloor prep, install, and finish carpentry around transitions.
+- **Disposal** - haul-away of old flooring (almost always included; ask).
+- **Acclimation time** - 3 to 5 days where boards sit in your home before install. No labor cost, but it's part of the timeline.
 
 What's *not* always included: moving heavy furniture, baseboards (sometimes quoted separately), and stairs (always quoted separately).
 
@@ -45,7 +45,7 @@ What's *not* always included: moving heavy furniture, baseboards (sometimes quot
 
 **1. Species and width.** Domestic red oak at 3-1/4" strip is the budget end, around $8 – $10 per sq ft installed. Wide-plank white oak or European oak runs $14 – $18+. Hickory and exotic species sit in between.
 
-**2. Subfloor condition.** A flat slab is fast. A subfloor with high spots, low spots, water damage, or moisture issues adds prep time — sometimes a full day before any flooring goes down.
+**2. Subfloor condition.** A flat slab is fast. A subfloor with high spots, low spots, water damage, or moisture issues adds prep time - sometimes a full day before any flooring goes down.
 
 **3. Stairs.** Hardwood stairs run $80 – $200+ per tread because each tread is custom-cut and finished. A 14-tread staircase is a separate project budget on its own.
 
@@ -53,7 +53,7 @@ What's *not* always included: moving heavy furniture, baseboards (sometimes quot
 
 ## Solid vs engineered: what we actually recommend
 
-In the Inland Empire's climate — dry summers, occasional humid spells, hot attic spaces — both work. Here's how we usually steer the conversation:
+In the Inland Empire's climate - dry summers, occasional humid spells, hot attic spaces - both work. Here's how we usually steer the conversation:
 
 - **Solid hardwood (3/4" thick)** if you want the option to refinish 4 – 7 times over the floor's lifetime, you're on a raised foundation, and you're staying long-term.
 - **Engineered hardwood** if you're on slab (most homes built after 1990 in the Inland Empire), if you want wider planks (5"+ is hard to do in solid here without movement), or if budget calls for fewer dollars per square foot.
@@ -75,7 +75,7 @@ For a free in-home estimate anywhere in the Inland Empire, [reach out](/contact/
     title: 'Hardwood vs Luxury Vinyl Plank: How to Actually Choose',
     metaTitle: 'Hardwood vs Luxury Vinyl Plank: Honest Comparison (2026)',
     metaDesc: 'Real-world hardwood vs LVP comparison from a 20-year flooring contractor. Cost, durability, water, pets, resale value, and which one fits your home.',
-    excerpt: 'A side-by-side look at hardwood and luxury vinyl plank — what each actually wins at, and how to pick without regret.',
+    excerpt: 'A side-by-side look at hardwood and luxury vinyl plank - what each actually wins at, and how to pick without regret.',
     date: '2026-04-05',
     category: 'comparison',
     image: '/images/laminate-vs-luxury-vinyl-comparison.webp',
@@ -85,7 +85,7 @@ For a free in-home estimate anywhere in the Inland Empire, [reach out](/contact/
 
 ## Where LVP wins
 
-- **Water.** Spills, pet accidents, dishwasher leaks — LVP shrugs them off. Hardwood can't.
+- **Water.** Spills, pet accidents, dishwasher leaks - LVP shrugs them off. Hardwood can't.
 - **Cost.** LVP installed runs $4 – $9 per sq ft. Hardwood is $8 – $16. The gap is real.
 - **Speed.** A whole-house LVP install is usually 1 – 3 days. Hardwood with acclimation is 3 – 7.
 - **Pet households.** If you have dogs and the worry of nail scratches keeps you up, LVP is the answer.
@@ -93,7 +93,7 @@ For a free in-home estimate anywhere in the Inland Empire, [reach out](/contact/
 ## Where hardwood wins
 
 - **Resale.** "Real hardwood" still appears in listing remarks. LVP usually does not. In neighborhoods where hardwood is expected (parts of Redlands, Riverside's Wood Streets, custom homes in Etiwanda), it matters.
-- **Refinishability.** Solid hardwood can be sanded and re-stained 4 – 7 times. LVP can't be refinished — when the wear layer is gone, it's replaced.
+- **Refinishability.** Solid hardwood can be sanded and re-stained 4 – 7 times. LVP can't be refinished - when the wear layer is gone, it's replaced.
 - **Feel underfoot.** Quality LVP is good. Hardwood is unmistakable.
 - **Lifespan.** A well-cared-for hardwood floor outlasts the house. LVP is rated for 20 – 30 years residential.
 
@@ -107,7 +107,7 @@ For a free in-home estimate anywhere in the Inland Empire, [reach out](/contact/
 
 ## A middle path most people don't consider
 
-You don't have to pick one for the whole house. We do plenty of jobs where the main living areas are hardwood and the bathrooms, laundry, and entryway are LVP — color-matched so the visual transition is subtle. It's the best of both worlds and almost always the right answer for kitchens.
+You don't have to pick one for the whole house. We do plenty of jobs where the main living areas are hardwood and the bathrooms, laundry, and entryway are LVP - color-matched so the visual transition is subtle. It's the best of both worlds and almost always the right answer for kitchens.
 
 If you want to see samples of both side-by-side in your own light, we bring them to every free estimate. [Schedule one here](/contact/).`,
     internalLinks: [
@@ -136,11 +136,11 @@ If you want to see samples of both side-by-side in your own light, we bring them
 
 ## What to do
 
-**Keep indoor humidity in a 35 – 55% band, year-round.** A whole-house humidifier on the HVAC is the single best move. Standalone room humidifiers help in winter; AC alone usually keeps summer in range. Cheap hygrometers tell you where you are — buy two and put one in your living room.
+**Keep indoor humidity in a 35 – 55% band, year-round.** A whole-house humidifier on the HVAC is the single best move. Standalone room humidifiers help in winter; AC alone usually keeps summer in range. Cheap hygrometers tell you where you are - buy two and put one in your living room.
 
 **Use rugs in direct-sun rooms.** Move them every few months so the unrugged areas catch up on UV exposure. Otherwise you get a permanent rug-shaped color difference when you eventually move it.
 
-**Clean with the right product.** Skip Murphy\'s Oil Soap, vinegar, and steam mops — all three damage modern polyurethane finishes. Use a hardwood-specific cleaner (Bona is widely available and works fine) and a microfiber pad. Spray on the pad, not the floor.
+**Clean with the right product.** Skip Murphy\'s Oil Soap, vinegar, and steam mops - all three damage modern polyurethane finishes. Use a hardwood-specific cleaner (Bona is widely available and works fine) and a microfiber pad. Spray on the pad, not the floor.
 
 **Damp mop, never wet.** Standing water is the enemy of every wood floor, no matter the finish.
 
@@ -150,14 +150,14 @@ If you want to see samples of both side-by-side in your own light, we bring them
 
 ## What to avoid
 
-- **Steam mops** — they drive water and heat into the seams.
-- **Spray-and-walk-away polish products** — they build up and cloud the finish over time.
-- **Robot vacuums with rotating brushes** — fine for dust but they can drag grit. Use the soft-roller models.
-- **Wet pet bowls without a tray** — chronic water on hardwood is how cupping starts.
+- **Steam mops** - they drive water and heat into the seams.
+- **Spray-and-walk-away polish products** - they build up and cloud the finish over time.
+- **Robot vacuums with rotating brushes** - fine for dust but they can drag grit. Use the soft-roller models.
+- **Wet pet bowls without a tray** - chronic water on hardwood is how cupping starts.
 
 ## When to call us
 
-If you see early cupping, gapping wider than a dime, or a finish that\'s scratched through to bare wood — call before the damage spreads. Most issues caught early are repairable. Wait too long and you\'re looking at full refinish or board replacement.
+If you see early cupping, gapping wider than a dime, or a finish that\'s scratched through to bare wood - call before the damage spreads. Most issues caught early are repairable. Wait too long and you\'re looking at full refinish or board replacement.
 
 Need an inspection? [Reach out for a free assessment](/contact/).`,
     internalLinks: [
@@ -170,13 +170,13 @@ Need an inspection? [Reach out for a free assessment](/contact/).`,
     title: 'Should I Refinish or Replace My Hardwood Floors?',
     metaTitle: 'Refinish or Replace Hardwood Floors? How to Decide',
     metaDesc: 'A clear framework for deciding whether to refinish or replace your existing hardwood floors. Cost, lifespan, and the boards-too-thin test.',
-    excerpt: 'Refinishing is half the cost of replacement — but only if your floor is actually a candidate. Here\'s how to tell.',
+    excerpt: 'Refinishing is half the cost of replacement - but only if your floor is actually a candidate. Here\'s how to tell.',
     date: '2026-03-20',
     category: 'cost',
     image: '/images/hardwood-floor-refinishing.webp',
     alt: 'Hardwood floor mid-refinishing showing the difference between sanded and finished sections',
     readMins: 4,
-    body: `Most older Inland Empire homes — especially in Redlands, Riverside\'s historic neighborhoods, and central San Bernardino — have original oak hidden under decades of carpet. The question is always the same: refinish what\'s there, or rip it out and replace?
+    body: `Most older Inland Empire homes - especially in Redlands, Riverside\'s historic neighborhoods, and central San Bernardino - have original oak hidden under decades of carpet. The question is always the same: refinish what\'s there, or rip it out and replace?
 
 ## The deciding factor: wear-layer thickness
 
@@ -184,7 +184,7 @@ Solid 3/4-inch hardwood has roughly 1/4 inch of usable wood above the tongue and
 
 But you only get to refinish if there\'s enough wood left. We measure this with a moisture meter probe or by lifting a vent register and looking at the cross-section. **Less than 1/8 inch above the groove? Replacement is the move.**
 
-Engineered hardwood is a different game — wear layers vary from 0.6 mm (no refinishing possible) to 6 mm (3 – 4 refinishes possible). Always check before assuming.
+Engineered hardwood is a different game - wear layers vary from 0.6 mm (no refinishing possible) to 6 mm (3 – 4 refinishes possible). Always check before assuming.
 
 ## Cost reality
 
@@ -211,7 +211,7 @@ Refinish is roughly half the cost. That\'s why we always check whether refinishi
 
 If a few boards are damaged but most of the floor is fine, we can weave in matching boards and refinish the whole floor. Done well, you can\'t see the patches. This is half the cost of full replacement and adds another decade-plus to the floor.
 
-Not sure which way to go? [Get a free in-home assessment](/contact/) — we\'ll measure your floor thickness and tell you straight.`,
+Not sure which way to go? [Get a free in-home assessment](/contact/) - we\'ll measure your floor thickness and tell you straight.`,
     internalLinks: [
       { href: '/services/hardwood-floor-refinishing/', text: 'refinishing' },
       { href: '/services/hardwood-flooring-installation/', text: 'replacement' },
@@ -221,7 +221,7 @@ Not sure which way to go? [Get a free in-home assessment](/contact/) — we\'ll 
     slug: 'best-flooring-for-pets',
     title: 'The Best Flooring for Pets (From a Contractor With Two Dogs)',
     metaTitle: 'Best Flooring for Pets: Honest Pro Recommendations',
-    metaDesc: 'Pet-friendly flooring guide from an Inland Empire contractor. LVP, tile, laminate, hardwood — what survives nails, accidents, and big-dog energy.',
+    metaDesc: 'Pet-friendly flooring guide from an Inland Empire contractor. LVP, tile, laminate, hardwood - what survives nails, accidents, and big-dog energy.',
     excerpt: 'If you have pets and you\'re flooring a house, here\'s what actually survives and what doesn\'t.',
     date: '2026-03-12',
     category: 'comparison',
@@ -240,7 +240,7 @@ Not sure which way to go? [Get a free in-home assessment](/contact/) — we\'ll 
 
 **4. Engineered hardwood.** Better than solid for pets because wider planks have fewer seams. Still scratches with nails. Acceptable for adults with calm dogs and good nail-trimming habits.
 
-**5. Solid hardwood.** Beautiful, will scratch over time. Refinishable — that\'s the saving grace. If you love hardwood and accept some patina, it\'s fine.
+**5. Solid hardwood.** Beautiful, will scratch over time. Refinishable - that\'s the saving grace. If you love hardwood and accept some patina, it\'s fine.
 
 **6. Carpet.** Don\'t.
 
@@ -248,7 +248,7 @@ Not sure which way to go? [Get a free in-home assessment](/contact/) — we\'ll 
 
 For most pet households, we install **LVP everywhere except formal living/dining**, where engineered hardwood goes if the owner wants the upgrade. Color-matched so the transition is subtle.
 
-For homes with multiple large dogs or older pets prone to accidents, we go LVP throughout the main floor and skip the hardwood entirely — and the homeowners are always happier a year in.
+For homes with multiple large dogs or older pets prone to accidents, we go LVP throughout the main floor and skip the hardwood entirely - and the homeowners are always happier a year in.
 
 ## Things people get wrong
 
@@ -258,9 +258,9 @@ For homes with multiple large dogs or older pets prone to accidents, we go LVP t
 
 ## The realistic conversation
 
-If you\'re a pet household and we\'re sitting in your living room with samples, we\'ll always show you LVP first. If you push back and want hardwood, we\'ll talk through the tradeoffs and quote both. We\'re not here to talk anyone out of what they want — we\'re here to make sure you know what you\'re signing up for.
+If you\'re a pet household and we\'re sitting in your living room with samples, we\'ll always show you LVP first. If you push back and want hardwood, we\'ll talk through the tradeoffs and quote both. We\'re not here to talk anyone out of what they want - we\'re here to make sure you know what you\'re signing up for.
 
-[Get an in-home estimate with samples](/contact/) — we\'ll bring both LVP and hardwood and you can decide on your own floor.`,
+[Get an in-home estimate with samples](/contact/) - we\'ll bring both LVP and hardwood and you can decide on your own floor.`,
     internalLinks: [
       { href: '/services/luxury-vinyl-plank/', text: 'LVP installation' },
       { href: '/services/hardwood-flooring-installation/', text: 'hardwood installation' },
@@ -284,11 +284,11 @@ If you\'re a pet household and we\'re sitting in your living room with samples, 
 - **Solid hardwood**: one piece of wood, 3/4" thick, tongue-and-groove edges. Same species top to bottom.
 - **Engineered hardwood**: a top wear layer of real wood (1 – 6 mm thick) bonded to a multi-ply plywood or HDF core. Total thickness usually 1/2" – 5/8".
 
-The wear layer on engineered is real hardwood — same look, same feel, same finish. The difference is what\'s underneath.
+The wear layer on engineered is real hardwood - same look, same feel, same finish. The difference is what\'s underneath.
 
 ## Where engineered actually wins
 
-- **Slab subfloors.** You can\'t nail solid hardwood directly to concrete (without serious prep). Engineered floats or glues down — much easier on the slab homes that dominate Fontana, Ontario, and newer Rancho Cucamonga.
+- **Slab subfloors.** You can\'t nail solid hardwood directly to concrete (without serious prep). Engineered floats or glues down - much easier on the slab homes that dominate Fontana, Ontario, and newer Rancho Cucamonga.
 - **Wide planks.** Solid wood at 5"+ width tends to cup and gap with humidity swings. Engineered\'s plywood core resists movement, so wide-plank engineered (6 – 9") is stable here in the Inland Empire while solid wide-plank is a gamble.
 - **Below-grade install.** Basements aren\'t common here, but if you have one, engineered is the only safe wood choice.
 
@@ -313,7 +313,7 @@ Roughly the same per square foot installed for comparable quality. Engineered ca
 
 The number that matters on engineered is the **wear-layer thickness in millimeters**. 1 – 2 mm = budget, can\'t refinish, plan to replace in 15 – 20 years. 4 – 6 mm = premium, refinishes like solid, lasts 30 – 50 years. Always ask, always confirm in writing.
 
-[Schedule a free in-home estimate](/contact/) — we bring solid and engineered samples to every visit so you can compare in your own light.`,
+[Schedule a free in-home estimate](/contact/) - we bring solid and engineered samples to every visit so you can compare in your own light.`,
     internalLinks: [
       { href: '/services/hardwood-flooring-installation/', text: 'hardwood installation' },
       { href: '/areas-we-serve/', text: 'areas we serve' },
@@ -336,7 +336,7 @@ The number that matters on engineered is the **wear-layer thickness in millimete
 
 - **Solid 3/4" hardwood:** 75 – 100+ years, with 4 – 7 refinishes along the way.
 - **Engineered with 4 – 6 mm wear layer:** 30 – 50 years, with 2 – 4 refinishes.
-- **Engineered with 1 – 2 mm wear layer:** 15 – 25 years, no refinishing — replace at end of life.
+- **Engineered with 1 – 2 mm wear layer:** 15 – 25 years, no refinishing - replace at end of life.
 
 ## What kills hardwood early
 
@@ -376,17 +376,17 @@ The good news: a fresh refinish makes a 30-year-old floor look brand new. We res
     title: 'Inland Empire Flooring Trends We\'re Seeing in 2026',
     metaTitle: 'Inland Empire Flooring Trends 2026: What Local Homeowners Are Choosing',
     metaDesc: 'Real flooring trends from an Inland Empire contractor: wide-plank European oak, water-resistant LVP, lighter stains, and what we\'re installing most.',
-    excerpt: 'Wider planks, lighter stains, more LVP, and matte finishes — here\'s what we\'re actually installing in Inland Empire homes this year.',
+    excerpt: 'Wider planks, lighter stains, more LVP, and matte finishes - here\'s what we\'re actually installing in Inland Empire homes this year.',
     date: '2026-02-18',
     category: 'design',
     image: '/images/luxury-vinyl-plank-flooring.webp',
     alt: 'Modern wide-plank flooring trend in an Inland Empire home',
     readMins: 3,
-    body: `Trends are slow in flooring — these are 2 – 5 year arcs, not seasonal. Here\'s what we\'re actually installing across the Inland Empire this year.
+    body: `Trends are slow in flooring - these are 2 – 5 year arcs, not seasonal. Here\'s what we\'re actually installing across the Inland Empire this year.
 
 ## 1. Wider planks, especially in white oak
 
-5", 6", 7", and 8" planks are dominant. Narrower 2-1/4" strip is rare on new installs. White oak has overtaken red oak as the most-requested species — roughly 60/40 in our work.
+5", 6", 7", and 8" planks are dominant. Narrower 2-1/4" strip is rare on new installs. White oak has overtaken red oak as the most-requested species - roughly 60/40 in our work.
 
 ## 2. Lighter, cooler stains
 
@@ -398,7 +398,7 @@ Satin used to be the default. Now ultra-matte (1 – 5 sheen) is the request on 
 
 ## 4. LVP gaining serious ground
 
-5 years ago, LVP was the budget option. Now we install premium LVP in $800K+ homes — wider planks, embossed-in-register textures, mineral-core stability. The look-and-feel gap with hardwood has closed dramatically.
+5 years ago, LVP was the budget option. Now we install premium LVP in $800K+ homes - wider planks, embossed-in-register textures, mineral-core stability. The look-and-feel gap with hardwood has closed dramatically.
 
 ## 5. Mixed flooring throughout the home
 
@@ -410,13 +410,13 @@ In Fontana, Ontario, Eastvale, and other newer-construction cities, engineered h
 
 ## 7. Less carpet, period
 
-Owners are tearing out carpet faster than at any point in the last 20 years. Allergies, dogs, or just modern aesthetic — carpet is getting rare in main living areas.
+Owners are tearing out carpet faster than at any point in the last 20 years. Allergies, dogs, or just modern aesthetic - carpet is getting rare in main living areas.
 
 ## 8. Stair upgrades during refinish
 
 Adding hardwood treads when refinishing is now a default add-on. The whole-house consistency sells itself once we show samples.
 
-If you\'re thinking about a project this year, [reach out for a free estimate](/contact/) — we\'ll bring current samples and walk through what\'s working in homes near you.`,
+If you\'re thinking about a project this year, [reach out for a free estimate](/contact/) - we\'ll bring current samples and walk through what\'s working in homes near you.`,
     internalLinks: [
       { href: '/services/hardwood-flooring-installation/', text: 'hardwood installation' },
       { href: '/services/luxury-vinyl-plank/', text: 'luxury vinyl plank' },
@@ -437,9 +437,9 @@ If you\'re thinking about a project this year, [reach out for a free estimate](/
 
 ## The 10 questions
 
-**1. Are you licensed in California?** Look up the C-15 license at cslb.ca.gov. Active and current — not expired or "in renewal." If they don\'t have one and the job is over $500, that\'s a problem.
+**1. Are you licensed in California?** Look up the C-15 license at cslb.ca.gov. Active and current - not expired or "in renewal." If they don\'t have one and the job is over $500, that\'s a problem.
 
-**2. Are you insured? May I see proof?** General liability and workers\' comp. Ask for the certificate of insurance — a real contractor sends it within minutes.
+**2. Are you insured? May I see proof?** General liability and workers\' comp. Ask for the certificate of insurance - a real contractor sends it within minutes.
 
 **3. How many years installing in the Inland Empire specifically?** Climate matters. A pro who\'s been here 10+ years has seen the cupping, the gapping, the slab issues, and the moisture quirks of our region.
 
@@ -447,7 +447,7 @@ If you\'re thinking about a project this year, [reach out for a free estimate](/
 
 **5. Will the people who quote the job be the people doing the work?** Some larger outfits sell the job and subcontract install. Not always bad, but you should know.
 
-**6. What\'s included in the price — and what isn\'t?** Demo, disposal, moving furniture, baseboards, transitions, stair nosings. Get the line items.
+**6. What\'s included in the price - and what isn\'t?** Demo, disposal, moving furniture, baseboards, transitions, stair nosings. Get the line items.
 
 **7. How long is the labor warranty?** Real installers stand behind their work. Ours is lifetime workmanship guarantee. One year is the floor; less is a red flag.
 
@@ -474,7 +474,7 @@ If you\'re thinking about a project this year, [reach out for a free estimate](/
 - Has online reviews you can verify on Google, Yelp, BBB.
 - Will give you references and follow up if you check them.
 
-If you\'re vetting flooring contractors in the Inland Empire, [we\'re happy to be one of the bids](/contact/). Compare us straight against everyone else — that\'s the right way to choose.`,
+If you\'re vetting flooring contractors in the Inland Empire, [we\'re happy to be one of the bids](/contact/). Compare us straight against everyone else - that\'s the right way to choose.`,
     internalLinks: [
       { href: '/about/', text: 'about Monteros' },
       { href: '/contact/', text: 'free estimate' },
@@ -524,7 +524,7 @@ If you\'re vetting flooring contractors in the Inland Empire, [we\'re happy to b
 
 - **Avoid the work area.** Hardwood install involves nail guns, table saws, and sanding. Stay out unless invited in.
 - **Dust will travel.** Even with containment, fine dust gets to adjacent rooms. Plan to wipe down surfaces after.
-- **Bring up issues immediately.** A board you don\'t love, a transition you want different, a stain shade question — the time to raise it is now, not after we\'ve finished. We\'d rather adjust than redo.
+- **Bring up issues immediately.** A board you don\'t love, a transition you want different, a stain shade question - the time to raise it is now, not after we\'ve finished. We\'d rather adjust than redo.
 
 ## After we leave
 
@@ -532,7 +532,7 @@ If you\'re vetting flooring contractors in the Inland Empire, [we\'re happy to b
 - **Avoid wet cleaning for two weeks.** The finish needs to fully cure.
 - **Save your warranty paperwork.** Workmanship is lifetime; the materials warranty depends on the brand.
 
-If you\'re scheduled with us and have any pre-install question, [give us a call](/contact/) — we walk through it on every job.`,
+If you\'re scheduled with us and have any pre-install question, [give us a call](/contact/) - we walk through it on every job.`,
     internalLinks: [
       { href: '/process/', text: 'our process' },
       { href: '/services/hardwood-flooring-installation/', text: 'hardwood installation' },
@@ -542,8 +542,8 @@ If you\'re scheduled with us and have any pre-install question, [give us a call]
     slug: 'water-damaged-hardwood-floors',
     title: 'Water-Damaged Hardwood Floors: What to Do (and When to Call a Pro)',
     metaTitle: 'Water-Damaged Hardwood Floors: First Steps and Repair Options',
-    metaDesc: 'What to do when your hardwood floors get wet — first hours, drying, when to repair vs replace, and how to prevent mold.',
-    excerpt: 'A burst pipe, a dishwasher leak, a roof drip — the first 24 hours decide whether your floor survives.',
+    metaDesc: 'What to do when your hardwood floors get wet - first hours, drying, when to repair vs replace, and how to prevent mold.',
+    excerpt: 'A burst pipe, a dishwasher leak, a roof drip - the first 24 hours decide whether your floor survives.',
     date: '2026-01-26',
     category: 'maintenance',
     image: '/images/hardwood-floor-refinishing.webp',
@@ -569,7 +569,7 @@ If you\'re scheduled with us and have any pre-install question, [give us a call]
 ## What you\'re looking for over the next week
 
 - **Cupping** (board edges higher than centers). Means water is in the wood. Some cupping flattens as the floor fully dries; some becomes permanent.
-- **Crowning** (board centers higher than edges). Usually means the floor was sanded while still wet — typically a refinishing mistake, not a leak.
+- **Crowning** (board centers higher than edges). Usually means the floor was sanded while still wet - typically a refinishing mistake, not a leak.
 - **Discoloration / dark stains.** Water has gone deep into the wood fiber. May fade as the floor dries; may not.
 - **Lifting at seams or board ends.** Adhesive (engineered) or fastener (solid) failure from water exposure.
 
@@ -578,7 +578,7 @@ If you\'re scheduled with us and have any pre-install question, [give us a call]
 - **Standing water that touched hardwood for more than 4 – 6 hours.** Water has likely reached the subfloor.
 - **Visible cupping, crowning, or lifting after 7 days of drying.** The floor isn\'t recovering on its own.
 - **Any musty smell.** Mold may be starting under the boards or in the subfloor.
-- **Leak source you can\'t identify.** A water-stained floor with no obvious cause means the leak is hidden — find it before fixing the floor.
+- **Leak source you can\'t identify.** A water-stained floor with no obvious cause means the leak is hidden - find it before fixing the floor.
 
 ## Repair vs replace decisions
 
@@ -594,7 +594,7 @@ If you\'re scheduled with us and have any pre-install question, [give us a call]
 - Replace washing machine hoses every 5 years (braided stainless lasts longer).
 - Caulk around dishwashers and bathroom sinks.
 
-If your floor has water damage, [call us before it gets worse](/services/floor-repair/) — early action saves a lot of floor.`,
+If your floor has water damage, [call us before it gets worse](/services/floor-repair/) - early action saves a lot of floor.`,
     internalLinks: [
       { href: '/services/floor-repair/', text: 'floor repair' },
       { href: '/services/hardwood-flooring-installation/', text: 'replacement install' },
@@ -604,8 +604,8 @@ If your floor has water damage, [call us before it gets worse](/services/floor-r
     slug: 'flooring-for-rental-properties',
     title: 'Best Flooring for Rental Properties (Landlord\'s Guide)',
     metaTitle: 'Best Flooring for Rentals: Landlord\'s Guide',
-    metaDesc: 'A landlord\'s guide to flooring for Inland Empire rentals. LVP, laminate, tile — durability, cost per turnover, and what tenants actually like.',
-    excerpt: 'Landlords don\'t need beautiful — they need durable, easy to clean, and quick to turn over. Here\'s what we install in rentals.',
+    metaDesc: 'A landlord\'s guide to flooring for Inland Empire rentals. LVP, laminate, tile - durability, cost per turnover, and what tenants actually like.',
+    excerpt: 'Landlords don\'t need beautiful - they need durable, easy to clean, and quick to turn over. Here\'s what we install in rentals.',
     date: '2026-01-19',
     category: 'cost',
     image: '/images/luxury-vinyl-plank-flooring.webp',
@@ -615,17 +615,17 @@ If your floor has water damage, [call us before it gets worse](/services/floor-r
 
 ## Goals for rental flooring
 
-- **Durable** — survives 3 – 5 year tenancies and the occasional hard turnover.
-- **Easy to clean** — no carpet, ideally one continuous flooring across the unit.
-- **Forgiving on touch-ups** — boards or tiles that can be replaced individually if a few get damaged.
-- **Cost-effective per square foot** — the per-unit math has to work.
-- **Tenant-friendly** — flooring that helps you list and lease quickly.
+- **Durable** - survives 3 – 5 year tenancies and the occasional hard turnover.
+- **Easy to clean** - no carpet, ideally one continuous flooring across the unit.
+- **Forgiving on touch-ups** - boards or tiles that can be replaced individually if a few get damaged.
+- **Cost-effective per square foot** - the per-unit math has to work.
+- **Tenant-friendly** - flooring that helps you list and lease quickly.
 
 ## Top picks for rentals
 
 **1. Luxury Vinyl Plank (LVP).** The clear winner for most rental conversions. Waterproof, scratch-resistant, $4 – $6/sq ft installed for a solid product. Replaceable plank-by-plank if a tenant damages a section. Photographs well in listings. We install LVP in rentals more than any other flooring.
 
-**2. Tile.** Bathrooms, kitchens, entries — bulletproof for decades. Higher install cost per sq ft, but the longevity in wet rooms is unmatched.
+**2. Tile.** Bathrooms, kitchens, entries - bulletproof for decades. Higher install cost per sq ft, but the longevity in wet rooms is unmatched.
 
 **3. Quality laminate (AC4).** A tier below LVP for rentals because it\'s only water-resistant, not waterproof. Use in dry-only spaces if budget pushes you below LVP. Otherwise spend the extra dollar per sq ft and get LVP.
 
@@ -660,7 +660,7 @@ We almost always recommend whole-unit conversions over partial. Reasons:
 
 The math works almost every time on the first turnover.
 
-For multi-property landlords, [we offer volume pricing](/contact/) — call to discuss.`,
+For multi-property landlords, [we offer volume pricing](/contact/) - call to discuss.`,
     internalLinks: [
       { href: '/services/luxury-vinyl-plank/', text: 'LVP installation' },
       { href: '/services/laminate-flooring/', text: 'laminate' },
@@ -670,7 +670,7 @@ For multi-property landlords, [we offer volume pricing](/contact/) — call to d
     slug: 'kitchen-flooring-options',
     title: 'The Best Kitchen Flooring Options (and What We Don\'t Recommend)',
     metaTitle: 'Best Kitchen Flooring: Pro Recommendations for the Inland Empire',
-    metaDesc: 'Kitchen flooring options ranked by an Inland Empire flooring contractor. Tile, LVP, hardwood, laminate — what works and what doesn\'t in real kitchens.',
+    metaDesc: 'Kitchen flooring options ranked by an Inland Empire flooring contractor. Tile, LVP, hardwood, laminate - what works and what doesn\'t in real kitchens.',
     excerpt: 'Kitchens are wet, hot, and high-traffic. Most flooring fails on at least one of those. Here\'s what actually holds up.',
     date: '2026-01-12',
     category: 'design',
@@ -685,7 +685,7 @@ For multi-property landlords, [we offer volume pricing](/contact/) — call to d
 
 **2. Luxury Vinyl Plank.** Our most-recommended kitchen floor today. Fully waterproof, comfortable underfoot, easy to clean, forgiving with dropped pots. Looks like wood, costs less, takes water like a champ.
 
-**3. Engineered hardwood.** Workable in dry-style kitchens (no dishwasher leaks, careful cooks). Risky in busy family kitchens. We do install hardwood in kitchens regularly — owners just need to know the tradeoffs.
+**3. Engineered hardwood.** Workable in dry-style kitchens (no dishwasher leaks, careful cooks). Risky in busy family kitchens. We do install hardwood in kitchens regularly - owners just need to know the tradeoffs.
 
 **4. Solid hardwood.** Same caveats as engineered, with even less moisture tolerance. Beautiful in formal kitchens; not our default recommendation.
 
@@ -695,10 +695,10 @@ For multi-property landlords, [we offer volume pricing](/contact/) — call to d
 
 ## What kitchens demand
 
-- **True waterproof at the dishwasher and sink areas.** Dishwasher leaks happen — sometimes once in the appliance\'s lifespan, sometimes more. The flooring around it has to handle a slow drip.
+- **True waterproof at the dishwasher and sink areas.** Dishwasher leaks happen - sometimes once in the appliance\'s lifespan, sometimes more. The flooring around it has to handle a slow drip.
 - **Heat tolerance under the oven and dishwasher.** LVP and hardwood near appliances need temperature stability. Quality LVP is rated for the temps; cheap LVP can warp.
 - **Forgiveness for dropped pans.** Tile cracks. LVP and hardwood dent but recover (LVP) or refinish out (hardwood).
-- **Easy cleaning.** Spilled olive oil, splashed sauce, dropped flour — wipes off all the recommended options. Texture matters: deep wood-grain LVP can hold food residue; smoother textures clean faster.
+- **Easy cleaning.** Spilled olive oil, splashed sauce, dropped flour - wipes off all the recommended options. Texture matters: deep wood-grain LVP can hold food residue; smoother textures clean faster.
 
 ## Mixed flooring strategies
 
@@ -730,13 +730,13 @@ If you\'re planning a kitchen flooring project, [we\'ll come out with samples](/
     image: '/images/hardwood-staircase-installation.webp',
     alt: 'Detail of hardwood floor showing professional repair work',
     readMins: 3,
-    body: `Hardwood squeaks because something\'s rubbing — usually a board against another board, or a board against a subfloor nail that\'s lost grip. Here\'s how the fixes work.
+    body: `Hardwood squeaks because something\'s rubbing - usually a board against another board, or a board against a subfloor nail that\'s lost grip. Here\'s how the fixes work.
 
 ## Why floors squeak
 
 - **Subfloor nails lose grip** as wood dries and contracts over years. The board lifts a fraction and rubs the nail when stepped on.
 - **Boards rub each other** when humidity drops and they shrink, leaving micro-gaps that compress under foot traffic.
-- **Subfloor squeaks itself** — common with original 1950s plywood that\'s starting to age.
+- **Subfloor squeaks itself** - common with original 1950s plywood that\'s starting to age.
 - **Joist movement** in raised foundations, especially if a joist has rotated or settled.
 
 ## The pro fix from above (most common)
@@ -753,7 +753,7 @@ Done from the finished side, no ceiling damage. Takes 5 – 15 minutes per squea
 
 ## DIY options that often work
 
-- **Talc or graphite in the seams.** Sprinkle, work in with a soft brush. Reduces wood-on-wood squeaks. Temporary fix — comes back in months but easy to redo.
+- **Talc or graphite in the seams.** Sprinkle, work in with a soft brush. Reduces wood-on-wood squeaks. Temporary fix - comes back in months but easy to redo.
 - **Squeak-fixing screw kits from a hardware store.** The same idea as the pro fix, with a jig to control depth. Works on most floors but takes practice.
 - **From below in a raised foundation.** If the floor sits over a crawl space, you can drive screws from below into the underside of the squeaking board. Easier than the from-above fix.
 
@@ -768,7 +768,7 @@ Done from the finished side, no ceiling damage. Takes 5 – 15 minutes per squea
 
 Some seasonal squeak is normal in any wood floor. If your floor squeaks lightly in the dry season but settles in winter, you\'re experiencing normal humidity cycling. A whole-house humidifier set to 35 – 50% reduces it dramatically.
 
-If you have persistent squeaks you can\'t fix, [reach out](/services/floor-repair/) — most of our squeak-fix calls are 1 – 2 hours total, and the floor goes silent for years.`,
+If you have persistent squeaks you can\'t fix, [reach out](/services/floor-repair/) - most of our squeak-fix calls are 1 – 2 hours total, and the floor goes silent for years.`,
     internalLinks: [
       { href: '/services/floor-repair/', text: 'floor repair' },
       { href: '/services/hardwood-floor-refinishing/', text: 'hardwood refinishing' },
@@ -785,13 +785,13 @@ If you have persistent squeaks you can\'t fix, [reach out](/services/floor-repai
     image: '/images/hardwood-floor-refinishing.webp',
     alt: 'Restored historic hardwood floor in a Redlands or Riverside home',
     readMins: 4,
-    body: `If you bought a pre-1950 home in Redlands, Riverside\'s Wood Streets, or the older neighborhoods of San Bernardino — you probably have hardwood under your carpet. Restoring it is some of the most rewarding work we do.
+    body: `If you bought a pre-1950 home in Redlands, Riverside\'s Wood Streets, or the older neighborhoods of San Bernardino - you probably have hardwood under your carpet. Restoring it is some of the most rewarding work we do.
 
 ## What\'s likely under your carpet
 
 **1900s – 1920s craftsman bungalows:** Douglas fir or old-growth pine, usually 3" – 4" wide tongue-and-groove, sometimes with mahogany or oak feature borders in the formal rooms.
 
-**1920s – 1940s Spanish revival and craftsman:** Quartersawn white oak strip, 2-1/4" or 3-1/4". Tighter grain than modern oak — exceptional wood that doesn\'t exist in commercial supply anymore.
+**1920s – 1940s Spanish revival and craftsman:** Quartersawn white oak strip, 2-1/4" or 3-1/4". Tighter grain than modern oak - exceptional wood that doesn\'t exist in commercial supply anymore.
 
 **1940s – 1960s ranch:** Red oak strip, 2-1/4". Solid 3/4" thick. Almost always refinishable.
 
@@ -807,8 +807,8 @@ What you\'re looking for:
 
 - **Wood thickness above the tongue and groove.** 1/8 inch minimum to refinish. More is better.
 - **Major water damage or staining.** Some fades with refinishing; some doesn\'t.
-- **Patches or repairs.** Previous owners may have replaced sections — needs assessment for whether the patch can be matched.
-- **Layout direction and pattern.** Original layouts are usually beautifully thoughtful — running parallel to the longest wall, with feature borders.
+- **Patches or repairs.** Previous owners may have replaced sections - needs assessment for whether the patch can be matched.
+- **Layout direction and pattern.** Original layouts are usually beautifully thoughtful - running parallel to the longest wall, with feature borders.
 
 ## What restoration involves
 
@@ -816,7 +816,7 @@ What you\'re looking for:
 2. **Staple and tack removal.** Done by hand. Time-consuming on full houses.
 3. **Sub-board repair.** Cracked or split boards get woven in with matching salvaged stock when possible.
 4. **Coarse, medium, fine sanding.** Heavy-grit through fine to bring up the original grain. Hand-edged where the drum sander can\'t reach.
-5. **Stain (or natural).** Most historic restorations look incredible with no stain — the patina of old-growth wood is part of the appeal. Some homes get a light tone applied.
+5. **Stain (or natural).** Most historic restorations look incredible with no stain - the patina of old-growth wood is part of the appeal. Some homes get a light tone applied.
 6. **3 coats finish.** Water-based or oil-based polyurethane. Oil-based ambers nicely on old fir; water-based stays clear on white oak.
 
 ## Cost reality
@@ -838,7 +838,7 @@ If you\'re thinking about restoring historic floors, [we\'d be honored to take a
     slug: 'flooring-for-resale-value',
     title: 'What Flooring Adds the Most Resale Value in the Inland Empire',
     metaTitle: 'Best Flooring for Resale Value: Inland Empire Homes',
-    metaDesc: 'Real flooring ROI guidance for Inland Empire sellers. Hardwood, LVP, laminate, and tile — what buyers want and what they\'ll pay for.',
+    metaDesc: 'Real flooring ROI guidance for Inland Empire sellers. Hardwood, LVP, laminate, and tile - what buyers want and what they\'ll pay for.',
     excerpt: 'If you\'re selling in the next 1 – 3 years, here\'s the flooring math that actually moves your sale price.',
     date: '2025-12-15',
     category: 'design',
@@ -855,7 +855,7 @@ If you\'re thinking about restoring historic floors, [we\'d be honored to take a
 
 **3. Quality laminate.** A tier below LVP in buyer perception. Acceptable in budget-price-point homes; less effective above $500K.
 
-**4. Tile.** Strong in kitchens and bathrooms. Neutral in living areas — buyers expect wood-look in those spaces.
+**4. Tile.** Strong in kitchens and bathrooms. Neutral in living areas - buyers expect wood-look in those spaces.
 
 **5. Carpet.** Negative in main living areas. Acceptable in bedrooms but loses to the alternatives. If your house has carpet in the living room or hallways, replacing it before sale almost always pays for itself.
 
@@ -869,9 +869,9 @@ If you\'re thinking about restoring historic floors, [we\'d be honored to take a
 
 ## What doesn\'t move price
 
-- **Premium LVP vs mid-grade LVP** — buyers can\'t tell the difference in walk-through.
-- **Exotic species hardwood vs domestic oak** — oak is what buyers expect; exotic adds cost without proportional value.
-- **High-end finish vs standard polyurethane** — invisible to most buyers.
+- **Premium LVP vs mid-grade LVP** - buyers can\'t tell the difference in walk-through.
+- **Exotic species hardwood vs domestic oak** - oak is what buyers expect; exotic adds cost without proportional value.
+- **High-end finish vs standard polyurethane** - invisible to most buyers.
 
 ## Pre-listing flooring strategy
 

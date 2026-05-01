@@ -12,9 +12,9 @@ export interface City {
   driveMinutesFromHQ: number;
   latitude: number;
   longitude: number;
-  // 1-2 sentences of unique local context — climate, housing stock, common floor needs
+  // 1-2 sentences of unique local context - climate, housing stock, common floor needs
   localContext: string;
-  // Common housing era and style — drives unique service copy
+  // Common housing era and style - drives unique service copy
   housingProfile: string;
   // 1-2 landmark or neighborhood mentions used for natural city integration
   landmarks: string[];
@@ -47,7 +47,7 @@ export const cities: City[] = [
     driveMinutesFromHQ: 18,
     latitude: 34.0922,
     longitude: -117.4350,
-    localContext: 'Fontana\'s North End and Sierra Lakes communities have been booming since the early 2000s, with thousands of large two-story homes that came with builder-grade carpet over plywood. Owners are tearing it out and going hardwood or LVP — that\'s most of what we install in Fontana.',
+    localContext: 'Fontana\'s North End and Sierra Lakes communities have been booming since the early 2000s, with thousands of large two-story homes that came with builder-grade carpet over plywood. Owners are tearing it out and going hardwood or LVP - that\'s most of what we install in Fontana.',
     housingProfile: 'Heavy mix of 2000s and 2010s builder homes (1,800 – 4,500 sq ft) with two stories and slab subfloors. Older central Fontana has 1950s ranches with original oak strip floors waiting under carpet.',
     landmarks: ['Sierra Lakes Golf Club', 'Auto Club Speedway nearby'],
   },
@@ -62,7 +62,7 @@ export const cities: City[] = [
     driveMinutesFromHQ: 22,
     latitude: 34.1064,
     longitude: -117.5931,
-    localContext: 'Rancho Cucamonga homeowners tend to invest in higher-end materials — wide-plank European oak, premium engineered, custom stain matching. Etiwanda and Alta Loma have some of the largest homes we floor in the Inland Empire.',
+    localContext: 'Rancho Cucamonga homeowners tend to invest in higher-end materials - wide-plank European oak, premium engineered, custom stain matching. Etiwanda and Alta Loma have some of the largest homes we floor in the Inland Empire.',
     housingProfile: 'Newer construction (1995 – 2020) dominates, with two-story 2,500 – 5,000 sq ft homes on slab. Alta Loma has a stock of older 1970s ranches with raised foundations that often hide original oak under carpet.',
     landmarks: ['Victoria Gardens', 'Etiwanda Heritage Park'],
   },
@@ -77,7 +77,7 @@ export const cities: City[] = [
     driveMinutesFromHQ: 25,
     latitude: 34.0633,
     longitude: -117.6509,
-    localContext: 'Ontario Ranch and the New Model Colony are some of the youngest neighborhoods in the Inland Empire — families that bought new construction five to ten years ago are now ready to swap builder carpet for real flooring. We do a lot of LVP and engineered hardwood here.',
+    localContext: 'Ontario Ranch and the New Model Colony are some of the youngest neighborhoods in the Inland Empire - families that bought new construction five to ten years ago are now ready to swap builder carpet for real flooring. We do a lot of LVP and engineered hardwood here.',
     housingProfile: 'Very heavy 2010s – 2020s new construction with slab subfloors, plus older 1920s craftsman and Spanish-revival homes downtown with raised foundations and original oak.',
     landmarks: ['Ontario Mills', 'Ontario International Airport'],
   },
@@ -92,7 +92,7 @@ export const cities: City[] = [
     driveMinutesFromHQ: 28,
     latitude: 33.9806,
     longitude: -117.3755,
-    localContext: 'Riverside has one of the most varied housing stocks in the region — historic Wood Streets craftsman bungalows from the 1910s, mid-century ranches in Magnolia Center, and 2000s tract homes in Orangecrest. We adjust species and approach for each.',
+    localContext: 'Riverside has one of the most varied housing stocks in the region - historic Wood Streets craftsman bungalows from the 1910s, mid-century ranches in Magnolia Center, and 2000s tract homes in Orangecrest. We adjust species and approach for each.',
     housingProfile: 'Wide era spread: 1900s – 1940s bungalows with original oak waiting to be revealed, 1960s ranches with raised foundations, and 2000s slab-on-grade developments in Orangecrest and Mission Grove.',
     landmarks: ['Mission Inn', 'UC Riverside', 'Mount Rubidoux'],
   },
@@ -122,7 +122,7 @@ export const cities: City[] = [
     driveMinutesFromHQ: 12,
     latitude: 34.1064,
     longitude: -117.3704,
-    localContext: 'Rialto homeowners are practical — they want flooring that handles real family life and lasts. LVP and quality laminate are the most common choice here, with hardwood for living and dining rooms when budget allows.',
+    localContext: 'Rialto homeowners are practical - they want flooring that handles real family life and lasts. LVP and quality laminate are the most common choice here, with hardwood for living and dining rooms when budget allows.',
     housingProfile: 'Mostly 1980s – 2000s single-family on slab, with a strong stock of 1950s – 1960s ranches in older central Rialto. Many homes are 1,500 – 2,500 sq ft.',
     landmarks: ['Renaissance Marketplace', 'Rialto Municipal Airport'],
   },
@@ -137,7 +137,7 @@ export const cities: City[] = [
     driveMinutesFromHQ: 15,
     latitude: 34.0556,
     longitude: -117.1825,
-    localContext: 'Redlands has more historic homes per capita than any other Inland Empire city — Victorian, craftsman, and Spanish-revival from the 1890s through 1930s. Original Douglas fir and oak floors hide under decades of carpet, and refinishing them is some of the most rewarding work we do.',
+    localContext: 'Redlands has more historic homes per capita than any other Inland Empire city - Victorian, craftsman, and Spanish-revival from the 1890s through 1930s. Original Douglas fir and oak floors hide under decades of carpet, and refinishing them is some of the most rewarding work we do.',
     housingProfile: 'Heavy historic stock (1890s – 1940s) with raised foundations and original-growth wood floors. South Redlands and Smiley Heights have larger turn-of-century homes; newer 1990s – 2010s tracts sit in north and east Redlands.',
     landmarks: ['University of Redlands', 'Smiley Park', 'Kimberly Crest'],
   },

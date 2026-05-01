@@ -1,5 +1,5 @@
 // Single source of truth for NAP, hours, social, and brand data.
-// Edit values here before launch — every page consumes them.
+// Edit values here before launch - every page consumes them.
 
 export const business = {
   legalName: 'Monteros Hardwood Flooring',
@@ -44,7 +44,7 @@ export const business = {
   social: {
     facebook:  'https://www.facebook.com/people/Monteros-hardwood-flooring/100021212805249/',
     instagram: 'https://www.instagram.com/monteroshardwood/',
-    google:    '', // GMB profile URL — fill in before launch
+    google:    '', // GMB profile URL - fill in before launch
     yelp:      '', // fill in before launch
   },
 
@@ -55,7 +55,7 @@ export const business = {
     radiusMiles:    50,
   },
 
-  // Trust signals — verify before launch.
+  // Trust signals - verify before launch.
   ratings: {
     averageRating:  4.9,
     reviewCount:    127, // VERIFY: pull real count from GMB before launch
@@ -71,7 +71,7 @@ export const business = {
     ogImage:        '/images/hardwood-flooring-installation.webp',
   },
 
-  // Domain — change if launching on a different URL.
+  // Domain - change if launching on a different URL.
   siteUrl: 'https://monteroshardwoodflooring.com',
 
   // Form endpoint. Replace with your real Formspree (or Netlify form attr).
