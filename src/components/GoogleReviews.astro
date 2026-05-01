@@ -32,7 +32,7 @@ const showCards = realReviews.length > 0;
 
     {showCards ? (
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
-        {realReviews.slice(0, 3).map((t, i) => (
+        {realReviews.slice(0, 6).map((t, i) => (
           <article class="card p-6 flex flex-col" data-reveal data-reveal-delay={String((i % 3) * 100 + 100)}>
             <div class="flex items-center gap-1 text-amber-400 mb-3" aria-label={`${t.rating} out of 5 stars`}>
               {Array.from({ length: t.rating }).map(() => (
