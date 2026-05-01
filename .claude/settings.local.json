@@ -16,7 +16,10 @@
       "Bash(export PATH=\"$PATH:/c/Program Files/GitHub CLI\")",
       "Bash(gh repo *)",
       "Bash(python -c \"import uuid; print\\(uuid.uuid4\\(\\)\\)\")",
-      "Bash(powershell -Command \"[guid]::NewGuid\\(\\).ToString\\(\\).ToLower\\(\\)\")"
+      "Bash(powershell -Command \"[guid]::NewGuid\\(\\).ToString\\(\\).ToLower\\(\\)\")",
+      "Skill(update-config)",
+      "PowerShell(powershell -ExecutionPolicy Bypass -File \"scripts\\\\copy-thorwell-photos.ps1\")",
+      "PowerShell(npm run *)"
     ]
   }
 }

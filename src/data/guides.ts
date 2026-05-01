@@ -98,8 +98,8 @@ Engineered wide-plank European oak in living/dining + LVP in wet rooms is one of
     metaTitle: 'Wide-Plank European Oak Flooring | Inland Empire',
     metaDesc: 'Wide-plank European oak hardwood flooring in the Inland Empire. 6"+ planks, character grades, custom finishes. Free in-home consultation.',
     intro: '6 to 9-inch wide European white oak — character grain, custom finishes, modern proportions.',
-    image: '/images/hardwood-flooring-installation.webp',
-    alt: 'Wide-plank European oak flooring',
+    image: '/images/hardwood-large-living-space.webp',
+    alt: 'Wide-plank hardwood flooring in a large open Inland Empire living room',
     parentService: 'hardwood-flooring-installation',
     body: `Wide-plank European white oak is what we install most in upper-tier Inland Empire homes today — Rancho Cucamonga\'s Etiwanda and Alta Loma, custom homes in Redlands, and high-end remodels across the region.
 
@@ -128,8 +128,8 @@ Wider planks expand and contract more in absolute terms with humidity. A whole-h
     metaTitle: 'Oak Hardwood Flooring | Red & White Oak | Inland Empire',
     metaDesc: 'Oak hardwood flooring installation in the Inland Empire. Red oak, white oak, all widths. Refinishable, durable, classic. Free estimates.',
     intro: 'Domestic red and white oak — the most-installed hardwood species for good reason. Tough, refinishable, classic.',
-    image: '/images/hardwood-flooring-installation.webp',
-    alt: 'Oak hardwood flooring',
+    image: '/images/hardwood-formal-living-room.webp',
+    alt: 'Classic oak hardwood flooring in a formal Inland Empire living room',
     parentService: 'hardwood-flooring-installation',
     body: `Oak is the workhorse of American hardwood flooring — about 65% of what we install. Two species dominate: red oak and white oak.
 
@@ -207,8 +207,8 @@ Same as oak — hardwood-specific cleaner only, felt pads under furniture, humid
     metaTitle: 'Waterproof Luxury Vinyl Plank | Inland Empire LVP',
     metaDesc: 'Waterproof luxury vinyl plank installed across the Inland Empire. SPC and rigid-core LVP for kitchens, bathrooms, and pet households. Free estimates.',
     intro: '100% waterproof rigid-core LVP — for kitchens, bathrooms, and any room where water (or pets) might touch the floor.',
-    image: '/images/luxury-vinyl-plank-flooring.webp',
-    alt: 'Waterproof luxury vinyl plank flooring',
+    image: '/images/luxury-vinyl-plank-living-room.webp',
+    alt: 'Waterproof luxury vinyl plank flooring in a furnished living room',
     parentService: 'luxury-vinyl-plank',
     body: `Waterproof LVP is the single most-installed flooring in the Inland Empire today. Here\'s why and what to look for.
 
@@ -252,8 +252,8 @@ $5 – $9 per sq ft installed for quality waterproof LVP. Premium options with t
     metaTitle: 'SPC Flooring Installation | Inland Empire',
     metaDesc: 'SPC stone polymer composite flooring installed across the Inland Empire. Hardest LVP core type, fully waterproof, commercial-rated. Free estimates.',
     intro: 'SPC — the densest, most stable LVP core type. For homes that demand commercial-grade durability.',
-    image: '/images/luxury-vinyl-plank-flooring.webp',
-    alt: 'SPC stone polymer composite flooring',
+    image: '/images/luxury-vinyl-plank-styled-room.webp',
+    alt: 'SPC stone polymer composite flooring in a styled Inland Empire room',
     parentService: 'luxury-vinyl-plank',
     body: `SPC stands for Stone Polymer Composite — a rigid LVP core made from limestone powder and stabilizers. It\'s the densest, most dimensionally stable LVP option.
 
@@ -293,8 +293,8 @@ $5 – $9 per sq ft installed. Wear-layer thickness drives price more than core 
     metaTitle: 'Click-Lock Vinyl Plank | Floating LVP Installation',
     metaDesc: 'Click-lock vinyl plank installed across the Inland Empire. Floating floor, no glue, fast install over most existing flooring. Free estimates.',
     intro: 'Floating LVP that clicks together — fast install, no glue, can go over most existing flooring.',
-    image: '/images/luxury-vinyl-plank-detail.webp',
-    alt: 'Click-lock vinyl plank installation',
+    image: '/images/luxury-vinyl-plank-perspective.webp',
+    alt: 'Click-lock vinyl plank flooring perspective view',
     parentService: 'luxury-vinyl-plank',
     body: `Click-lock LVP is the dominant install method for residential luxury vinyl plank today. Planks join via mechanical click-lock edges, floating over the subfloor without glue or nails.
 
@@ -332,8 +332,8 @@ $5 – $9 per sq ft installed. Wear-layer thickness drives price more than core 
     metaTitle: 'Water-Resistant Laminate Flooring | Inland Empire',
     metaDesc: 'Water-resistant laminate flooring installation in the Inland Empire. Modern cores handle splashes and spills. Free estimates.',
     intro: 'Modern laminate with water-resistant cores — handles spills and splashes that would have ruined older laminate.',
-    image: '/images/laminate-flooring.webp',
-    alt: 'Water-resistant laminate flooring',
+    image: '/images/laminate-living-space.webp',
+    alt: 'Water-resistant laminate flooring in an Inland Empire living space',
     parentService: 'laminate-flooring',
     body: `Modern water-resistant laminate is a different product from the laminate of 10 years ago. Better cores, sealed edges, and finishes that handle real life.
 
@@ -374,8 +374,8 @@ $3 – $7 per sq ft installed. Often the budget-friendly choice for whole-house 
     metaTitle: 'AC-Rated Laminate Flooring | AC4 vs AC5 Explained',
     metaDesc: 'AC ratings for laminate flooring explained. AC3, AC4, AC5 wear ratings — which to choose for your home or commercial space.',
     intro: 'AC ratings explained — what AC3, AC4, and AC5 actually mean for your floor\'s lifespan.',
-    image: '/images/laminate-flooring-detail.webp',
-    alt: 'AC-rated laminate flooring',
+    image: '/images/laminate-large-space.webp',
+    alt: 'AC-rated commercial laminate flooring in a large Inland Empire interior',
     parentService: 'laminate-flooring',
     body: `AC ratings (Abrasion Class) measure laminate wear-layer durability — specifically resistance to abrasion, impact, stains, and burns. The higher the number, the tougher the floor.
 
@@ -508,8 +508,8 @@ Most well-maintained hardwood floors benefit from screen-and-recoat every 5 – 
     metaTitle: 'Sand and Stain Hardwood Floors | Full Refinishing',
     metaDesc: 'Full sand, stain, and seal hardwood refinishing across the Inland Empire. Custom stain matching, water-based or oil-based finishes. Free estimates.',
     intro: 'The full process — sand to bare wood, stain to your color, seal with durable polyurethane.',
-    image: '/images/hardwood-floor-refinishing.webp',
-    alt: 'Full sand, stain, and seal hardwood refinishing',
+    image: '/images/hardwood-floor-sander.webp',
+    alt: 'Drum sander mid-process during a full hardwood refinishing job',
     parentService: 'hardwood-floor-refinishing',
     body: `Full refinishing takes a tired hardwood floor down to bare wood, applies stain to your chosen color, and seals it with multiple coats of polyurethane. The result: a floor that looks brand new — often better than new.
 
@@ -668,8 +668,8 @@ If a room has more than 5 – 10 areas of damage, it\'s often more cost-effectiv
     metaTitle: 'Kitchen Flooring Installation | Inland Empire',
     metaDesc: 'Kitchen flooring installation across the Inland Empire. Tile, LVP, hardwood — what works for your kitchen and family. Free estimates.',
     intro: 'Tile, LVP, hardwood — what fits your kitchen, your cooking style, and your family.',
-    image: '/images/hardwood-kitchen-flooring.webp',
-    alt: 'Hardwood kitchen flooring in an Inland Empire home',
+    image: '/images/hardwood-modern-open-living.webp',
+    alt: 'Wide-plank natural oak hardwood in a modern open-concept kitchen and living room',
     body: `Kitchens demand flooring that handles water, dropped pans, heat under appliances, and high traffic. Here\'s how the major options handle a real kitchen.
 
 ## Our recommendations
