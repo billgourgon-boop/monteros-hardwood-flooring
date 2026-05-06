@@ -50,7 +50,7 @@ A single piece of hardwood, 3/4 inch thick, milled with tongue-and-groove edges.
 
 Domestic oak (red and white), hickory, maple, and select premium species. Most installs are 3-1/4" to 5" wide with site-finished or pre-finished options.
 
-For a free in-home estimate with samples, [reach out](/contact/).`,
+For a free in-home estimate with samples, [reach out](https://monteros.localfloorpros.com/book-now-page).`,
     relatedGuides: ['engineered-hardwood-flooring', 'wide-plank-european-oak'],
   },
   {
@@ -88,7 +88,7 @@ We bring engineered samples with documented wear-layer specs to every estimate.
 
 Engineered wide-plank European oak in living/dining + LVP in wet rooms is one of our most-quoted whole-house plans across the Inland Empire today.
 
-[Get a free estimate](/contact/) with engineered samples brought to your home.`,
+[Get a free estimate](https://monteros.localfloorpros.com/book-now-page) with engineered samples brought to your home.`,
     relatedGuides: ['solid-hardwood-flooring', 'wide-plank-european-oak'],
   },
   {
@@ -118,7 +118,7 @@ Premium European oak runs $14 – $22+ per square foot installed. The price is r
 
 Wider planks expand and contract more in absolute terms with humidity. A whole-house humidifier on HVAC keeps indoor humidity in the 35 – 50% band - non-negotiable for wide-plank longevity in our climate.
 
-[Schedule a free in-home consultation](/contact/) with European oak samples.`,
+[Schedule a free in-home consultation](https://monteros.localfloorpros.com/book-now-page) with European oak samples.`,
     relatedGuides: ['engineered-hardwood-flooring', 'solid-hardwood-flooring'],
   },
   {
@@ -159,7 +159,7 @@ That said, red oak is still excellent and the right choice in homes where it mat
 - White oak: $10 – $15 per sq ft installed
 - Wide-plank white oak: $13 – $18+ per sq ft installed
 
-[Get a free estimate](/contact/) with both red and white oak samples on-site.`,
+[Get a free estimate](https://monteros.localfloorpros.com/book-now-page) with both red and white oak samples on-site.`,
     relatedGuides: ['hickory-flooring', 'wide-plank-european-oak'],
   },
   {
@@ -196,7 +196,7 @@ That said, red oak is still excellent and the right choice in homes where it mat
 
 Same as oak - hardwood-specific cleaner only, felt pads under furniture, humidity in the 35 – 50% band. The hardness means scratches that would mar oak often don\'t register on hickory.
 
-[See hickory samples](/contact/) at your free in-home estimate.`,
+[See hickory samples](https://monteros.localfloorpros.com/book-now-page) at your free in-home estimate.`,
     relatedGuides: ['oak-flooring', 'solid-hardwood-flooring'],
   },
   // ========== LVP SPECIALTY ==========
@@ -242,7 +242,7 @@ Most quality residential LVP today is SPC with an attached cork or foam pad for 
 
 $5 – $9 per sq ft installed for quality waterproof LVP. Premium options with thicker wear layers, larger plank sizes, and embossed-in-register textures run higher.
 
-[Bring waterproof LVP samples to my home](/contact/).`,
+[Bring waterproof LVP samples to my home](https://monteros.localfloorpros.com/book-now-page).`,
     relatedGuides: ['spc-flooring', 'pet-friendly-flooring'],
   },
   {
@@ -283,7 +283,7 @@ Both are excellent. We bring both to every LVP estimate.
 
 $5 – $9 per sq ft installed. Wear-layer thickness drives price more than core type.
 
-[See SPC samples](/contact/) at your free in-home estimate.`,
+[See SPC samples](https://monteros.localfloorpros.com/book-now-page) at your free in-home estimate.`,
     relatedGuides: ['waterproof-luxury-vinyl-plank', 'pet-friendly-flooring'],
   },
   {
@@ -321,7 +321,7 @@ $5 – $9 per sq ft installed. Wear-layer thickness drives price more than core 
 - Wet areas with frequent standing water risk.
 - Stairs (always glued).
 
-[Free in-home LVP estimate](/contact/) - we\'ll quote click-lock and glue-down side-by-side.`,
+[Free in-home LVP estimate](https://monteros.localfloorpros.com/book-now-page) - we\'ll quote click-lock and glue-down side-by-side.`,
     relatedGuides: ['waterproof-luxury-vinyl-plank', 'spc-flooring'],
   },
   // ========== LAMINATE SPECIALTY ==========
@@ -364,7 +364,7 @@ Water-resistant is real and meaningful, but it\'s not the same as fully waterpro
 
 $3 – $7 per sq ft installed. Often the budget-friendly choice for whole-house installs in dry rooms.
 
-[Free estimate with laminate samples](/contact/).`,
+[Free estimate with laminate samples](https://monteros.localfloorpros.com/book-now-page).`,
     relatedGuides: ['ac-rated-laminate', 'laminate-vs-luxury-vinyl-plank'],
   },
   {
@@ -407,7 +407,7 @@ We don\'t install AC1 or AC2 - the lifespan math doesn\'t work for any household
 
 The price difference between AC3 and AC4 is small - usually under $0.50 per sq ft at the material level. The lifespan difference is real. If you\'re paying for professional installation, the math always favors AC4.
 
-[Free in-home estimate](/contact/) with AC4 samples brought to your home.`,
+[Free in-home estimate](https://monteros.localfloorpros.com/book-now-page) with AC4 samples brought to your home.`,
     relatedGuides: ['water-resistant-laminate', 'laminate-vs-luxury-vinyl-plank'],
   },
   // ========== REFINISHING SPECIALTY ==========
@@ -450,7 +450,7 @@ Dust-contained systems cost more in equipment and consumables than open sanding.
 - **Water-based polyurethane** is much lower VOC, faster cure, milder smell. Our default for sensitive households.
 - **Stain options** vary in VOC content - we discuss during estimate.
 
-[Free refinishing estimate](/contact/) with a walkthrough of our dust-contained process.`,
+[Free refinishing estimate](https://monteros.localfloorpros.com/book-now-page) with a walkthrough of our dust-contained process.`,
     relatedGuides: ['screen-and-recoat', 'sand-and-stain'],
   },
   {
@@ -498,7 +498,7 @@ $1.50 – $3 per sq ft. Roughly half to one-third the cost of full refinishing.
 
 Most well-maintained hardwood floors benefit from screen-and-recoat every 5 – 8 years. It can extend the time between full refinishes by years and adds significant total floor life.
 
-[Free assessment of your existing finish](/contact/).`,
+[Free assessment of your existing finish](https://monteros.localfloorpros.com/book-now-page).`,
     relatedGuides: ['dustless-floor-refinishing', 'sand-and-stain'],
   },
   {
@@ -555,7 +555,7 @@ Most well-maintained hardwood floors benefit from screen-and-recoat every 5 – 
 
 $3 – $7 per sq ft for full refinishing. Stain choice and finish type affect price slightly.
 
-[Free in-home refinishing estimate](/contact/).`,
+[Free in-home refinishing estimate](https://monteros.localfloorpros.com/book-now-page).`,
     relatedGuides: ['dustless-floor-refinishing', 'screen-and-recoat'],
   },
   // ========== REPAIR SPECIALTY ==========
@@ -608,7 +608,7 @@ $3 – $7 per sq ft for full refinishing. Stain choice and finish type affect pr
 - **Mold or rot in subfloor.**
 - **Widespread damage** across multiple rooms.
 
-[Call us for fast response](/contact/) - every hour matters with water damage.`,
+[Call us for fast response](https://monteros.localfloorpros.com/book-now-page) - every hour matters with water damage.`,
     relatedGuides: ['scratch-and-gouge-repair', 'squeak-fix'],
   },
   {
@@ -657,7 +657,7 @@ If a room has more than 5 – 10 areas of damage, it\'s often more cost-effectiv
 - Use mismatched filler that we know won\'t blend.
 - Promise invisible results on damage that genuinely can\'t hide.
 
-[Free in-home damage assessment](/contact/) - we tell you the best path before quoting.`,
+[Free in-home damage assessment](https://monteros.localfloorpros.com/book-now-page) - we tell you the best path before quoting.`,
     relatedGuides: ['water-damage-floor-repair', 'squeak-fix'],
   },
   // ========== ROOM PAGES ==========
@@ -701,7 +701,7 @@ If a room has more than 5 – 10 areas of damage, it\'s often more cost-effectiv
 - Engineered hardwood: $9 – $16 per sq ft installed
 - Solid hardwood: $10 – $16 per sq ft installed (raised foundations only)
 
-[Free kitchen flooring estimate](/contact/) with samples brought to your home.`,
+[Free kitchen flooring estimate](https://monteros.localfloorpros.com/book-now-page) with samples brought to your home.`,
     relatedGuides: ['waterproof-luxury-vinyl-plank', 'engineered-hardwood-flooring'],
   },
   {
@@ -747,7 +747,7 @@ Different rules. Powder rooms have minimal water exposure (sink only). LVP, wate
 - **LVP throughout** - modern look, easier maintenance, color-matched to main living areas.
 - **Tile on floor + tile on shower walls** - classic and integrated.
 
-[Free bathroom flooring estimate](/contact/) with waterproof samples.`,
+[Free bathroom flooring estimate](https://monteros.localfloorpros.com/book-now-page) with waterproof samples.`,
     relatedGuides: ['waterproof-luxury-vinyl-plank', 'spc-flooring'],
   },
   {
@@ -784,7 +784,7 @@ Different rules. Powder rooms have minimal water exposure (sink only). LVP, wate
 - **LVP throughout** - most family homes in mid-tier.
 - **Carpet remaining only in formal master bedrooms** in some traditional homes.
 
-[Free bedroom or whole-house flooring estimate](/contact/).`,
+[Free bedroom or whole-house flooring estimate](https://monteros.localfloorpros.com/book-now-page).`,
     relatedGuides: ['solid-hardwood-flooring', 'engineered-hardwood-flooring'],
   },
   {
@@ -825,7 +825,7 @@ Even in dry Southern California, slab basements can wick moisture from the surro
 - Does the warranty cover below-grade use?
 - Is there a vapor barrier in the install plan?
 
-[Free basement flooring assessment](/contact/) - we\'ll moisture-test and recommend the right product.`,
+[Free basement flooring assessment](https://monteros.localfloorpros.com/book-now-page) - we\'ll moisture-test and recommend the right product.`,
     relatedGuides: ['waterproof-luxury-vinyl-plank', 'engineered-hardwood-flooring'],
   },
   {
@@ -877,7 +877,7 @@ Most commercial install timelines are tight. We work nights and weekends when ne
 - **Material warranty terms** for commercial use vary by product.
 - **Lease compliance** - landlord approval often required for floor changes.
 
-[Free commercial flooring quote](/contact/) - site walks Monday through Friday.`,
+[Free commercial flooring quote](https://monteros.localfloorpros.com/book-now-page) - site walks Monday through Friday.`,
     relatedGuides: ['waterproof-luxury-vinyl-plank', 'ac-rated-laminate'],
   },
   // ========== COMPARISON PAGES ==========
@@ -954,7 +954,7 @@ Most commercial install timelines are tight. We work nights and weekends when ne
 
 Hardwood (or engineered) in living/dining/bedrooms + LVP in kitchens/baths/laundry. Color-matched. Best of both.
 
-[Free in-home estimate with both samples](/contact/).`,
+[Free in-home estimate with both samples](https://monteros.localfloorpros.com/book-now-page).`,
     relatedGuides: ['hardwood-vs-laminate', 'engineered-vs-solid-hardwood'],
   },
   {
@@ -1022,7 +1022,7 @@ Hardwood (or engineered) in living/dining/bedrooms + LVP in kitchens/baths/laund
 
 For most homeowners considering laminate today, we recommend looking at LVP at the same price point. It\'s often slightly more expensive but the waterproof advantage is meaningful, and the visuals have largely converged.
 
-[Free in-home estimate](/contact/) with hardwood, laminate, and LVP samples.`,
+[Free in-home estimate](https://monteros.localfloorpros.com/book-now-page) with hardwood, laminate, and LVP samples.`,
     relatedGuides: ['laminate-vs-luxury-vinyl-plank', 'hardwood-vs-luxury-vinyl-plank'],
   },
   {
@@ -1095,7 +1095,7 @@ For most homeowners considering laminate today, we recommend looking at LVP at t
 
 For most clients today, we install LVP. The price gap with laminate has narrowed, the waterproof advantage is meaningful, and the comfort and quietness underfoot is real. Laminate still has a place; LVP has more of one.
 
-[Free in-home estimate](/contact/) with laminate and LVP samples side-by-side.`,
+[Free in-home estimate](https://monteros.localfloorpros.com/book-now-page) with laminate and LVP samples side-by-side.`,
     relatedGuides: ['waterproof-luxury-vinyl-plank', 'water-resistant-laminate'],
   },
   {
@@ -1167,7 +1167,7 @@ For most clients today, we install LVP. The price gap with laminate has narrowed
 - **Newer slab homes:** wide-plank engineered hardwood.
 - **Custom and upper-tier homes:** wide-plank European oak engineered.
 
-[Free in-home estimate](/contact/) with both solid and engineered samples.`,
+[Free in-home estimate](https://monteros.localfloorpros.com/book-now-page) with both solid and engineered samples.`,
     relatedGuides: ['solid-hardwood-flooring', 'engineered-hardwood-flooring'],
   },
 ];

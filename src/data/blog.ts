@@ -64,7 +64,7 @@ If a quote is significantly under $8/sq ft installed for hardwood, ask: Is the m
 
 Get a written, itemized quote from at least two contractors and compare them line-by-line, not just the bottom number. That's the single best move you can make as a homeowner.
 
-For a free in-home estimate anywhere in the Inland Empire, [reach out](/contact/).`,
+For a free in-home estimate anywhere in the Inland Empire, [reach out](https://monteros.localfloorpros.com/book-now-page).`,
     internalLinks: [
       { href: '/services/hardwood-flooring-installation/', text: 'hardwood floor installation' },
       { href: '/services/floor-repair/', text: 'subfloor and board repair' },
@@ -109,7 +109,7 @@ For a free in-home estimate anywhere in the Inland Empire, [reach out](/contact/
 
 You don't have to pick one for the whole house. We do plenty of jobs where the main living areas are hardwood and the bathrooms, laundry, and entryway are LVP - color-matched so the visual transition is subtle. It's the best of both worlds and almost always the right answer for kitchens.
 
-If you want to see samples of both side-by-side in your own light, we bring them to every free estimate. [Schedule one here](/contact/).`,
+If you want to see samples of both side-by-side in your own light, we bring them to every free estimate. [Schedule one here](https://monteros.localfloorpros.com/book-now-page).`,
     internalLinks: [
       { href: '/services/hardwood-flooring-installation/', text: 'hardwood installation' },
       { href: '/services/luxury-vinyl-plank/', text: 'luxury vinyl plank' },
@@ -159,7 +159,7 @@ If you want to see samples of both side-by-side in your own light, we bring them
 
 If you see early cupping, gapping wider than a dime, or a finish that\'s scratched through to bare wood - call before the damage spreads. Most issues caught early are repairable. Wait too long and you\'re looking at full refinish or board replacement.
 
-Need an inspection? [Reach out for a free assessment](/contact/).`,
+Need an inspection? [Reach out for a free assessment](https://monteros.localfloorpros.com/book-now-page).`,
     internalLinks: [
       { href: '/services/hardwood-floor-refinishing/', text: 'refinishing' },
       { href: '/services/floor-repair/', text: 'board repair' },
@@ -211,7 +211,7 @@ Refinish is roughly half the cost. That\'s why we always check whether refinishi
 
 If a few boards are damaged but most of the floor is fine, we can weave in matching boards and refinish the whole floor. Done well, you can\'t see the patches. This is half the cost of full replacement and adds another decade-plus to the floor.
 
-Not sure which way to go? [Get a free in-home assessment](/contact/) - we\'ll measure your floor thickness and tell you straight.`,
+Not sure which way to go? [Get a free in-home assessment](https://monteros.localfloorpros.com/book-now-page) - we\'ll measure your floor thickness and tell you straight.`,
     internalLinks: [
       { href: '/services/hardwood-floor-refinishing/', text: 'refinishing' },
       { href: '/services/hardwood-flooring-installation/', text: 'replacement' },
@@ -260,7 +260,7 @@ For homes with multiple large dogs or older pets prone to accidents, we go LVP t
 
 If you\'re a pet household and we\'re sitting in your living room with samples, we\'ll always show you LVP first. If you push back and want hardwood, we\'ll talk through the tradeoffs and quote both. We\'re not here to talk anyone out of what they want - we\'re here to make sure you know what you\'re signing up for.
 
-[Get an in-home estimate with samples](/contact/) - we\'ll bring both LVP and hardwood and you can decide on your own floor.`,
+[Get an in-home estimate with samples](https://monteros.localfloorpros.com/book-now-page) - we\'ll bring both LVP and hardwood and you can decide on your own floor.`,
     internalLinks: [
       { href: '/services/luxury-vinyl-plank/', text: 'LVP installation' },
       { href: '/services/hardwood-flooring-installation/', text: 'hardwood installation' },
@@ -313,7 +313,7 @@ Roughly the same per square foot installed for comparable quality. Engineered ca
 
 The number that matters on engineered is the **wear-layer thickness in millimeters**. 1 – 2 mm = budget, can\'t refinish, plan to replace in 15 – 20 years. 4 – 6 mm = premium, refinishes like solid, lasts 30 – 50 years. Always ask, always confirm in writing.
 
-[Schedule a free in-home estimate](/contact/) - we bring solid and engineered samples to every visit so you can compare in your own light.`,
+[Schedule a free in-home estimate](https://monteros.localfloorpros.com/book-now-page) - we bring solid and engineered samples to every visit so you can compare in your own light.`,
     internalLinks: [
       { href: '/services/hardwood-flooring-installation/', text: 'hardwood installation' },
       { href: '/areas-we-serve/', text: 'areas we serve' },
@@ -416,7 +416,7 @@ Owners are tearing out carpet faster than at any point in the last 20 years. All
 
 Adding hardwood treads when refinishing is now a default add-on. The whole-house consistency sells itself once we show samples.
 
-If you\'re thinking about a project this year, [reach out for a free estimate](/contact/) - we\'ll bring current samples and walk through what\'s working in homes near you.`,
+If you\'re thinking about a project this year, [reach out for a free estimate](https://monteros.localfloorpros.com/book-now-page) - we\'ll bring current samples and walk through what\'s working in homes near you.`,
     internalLinks: [
       { href: '/services/hardwood-flooring-installation/', text: 'hardwood installation' },
       { href: '/services/luxury-vinyl-plank/', text: 'luxury vinyl plank' },
@@ -474,10 +474,10 @@ If you\'re thinking about a project this year, [reach out for a free estimate](/
 - Has online reviews you can verify on Google, Yelp, BBB.
 - Will give you references and follow up if you check them.
 
-If you\'re vetting flooring contractors in the Inland Empire, [we\'re happy to be one of the bids](/contact/). Compare us straight against everyone else - that\'s the right way to choose.`,
+If you\'re vetting flooring contractors in the Inland Empire, [we\'re happy to be one of the bids](https://monteros.localfloorpros.com/book-now-page). Compare us straight against everyone else - that\'s the right way to choose.`,
     internalLinks: [
       { href: '/about/', text: 'about Monteros' },
-      { href: '/contact/', text: 'free estimate' },
+      { href: 'https://monteros.localfloorpros.com/book-now-page', text: 'free estimate' },
     ],
   },
   {
@@ -532,7 +532,7 @@ If you\'re vetting flooring contractors in the Inland Empire, [we\'re happy to b
 - **Avoid wet cleaning for two weeks.** The finish needs to fully cure.
 - **Save your warranty paperwork.** Workmanship is lifetime; the materials warranty depends on the brand.
 
-If you\'re scheduled with us and have any pre-install question, [give us a call](/contact/) - we walk through it on every job.`,
+If you\'re scheduled with us and have any pre-install question, [give us a call](https://monteros.localfloorpros.com/book-now-page) - we walk through it on every job.`,
     internalLinks: [
       { href: '/process/', text: 'our process' },
       { href: '/services/hardwood-flooring-installation/', text: 'hardwood installation' },
@@ -660,7 +660,7 @@ We almost always recommend whole-unit conversions over partial. Reasons:
 
 The math works almost every time on the first turnover.
 
-For multi-property landlords, [we offer volume pricing](/contact/) - call to discuss.`,
+For multi-property landlords, [we offer volume pricing](https://monteros.localfloorpros.com/book-now-page) - call to discuss.`,
     internalLinks: [
       { href: '/services/luxury-vinyl-plank/', text: 'LVP installation' },
       { href: '/services/laminate-flooring/', text: 'laminate' },
@@ -713,7 +713,7 @@ For multi-property landlords, [we offer volume pricing](/contact/) - call to dis
 - **Dark colors near a busy stove.** Spatter shows.
 - **Skipping the moisture barrier on slab kitchens.** Concrete slabs can wick moisture; barrier is non-negotiable.
 
-If you\'re planning a kitchen flooring project, [we\'ll come out with samples](/contact/) and walk through what fits your kitchen, your budget, and your tolerance for the trade-offs.`,
+If you\'re planning a kitchen flooring project, [we\'ll come out with samples](https://monteros.localfloorpros.com/book-now-page) and walk through what fits your kitchen, your budget, and your tolerance for the trade-offs.`,
     internalLinks: [
       { href: '/services/luxury-vinyl-plank/', text: 'LVP installation' },
       { href: '/services/hardwood-flooring-installation/', text: 'hardwood installation' },
@@ -827,7 +827,7 @@ Historic restoration runs $4 – $8 per sq ft for the floor work itself. Compare
 
 The Douglas fir and old-growth oak in pre-1950 Redlands and Riverside homes is often denser, tighter-grained wood than anything available commercially today. The trees those boards came from don\'t exist anymore. Don\'t replace them lightly.
 
-If you\'re thinking about restoring historic floors, [we\'d be honored to take a look](/contact/). It\'s some of our favorite work.`,
+If you\'re thinking about restoring historic floors, [we\'d be honored to take a look](https://monteros.localfloorpros.com/book-now-page). It\'s some of our favorite work.`,
     internalLinks: [
       { href: '/services/hardwood-floor-refinishing/', text: 'hardwood refinishing' },
       { href: '/areas-we-serve/redlands/', text: 'Redlands service' },
@@ -886,7 +886,7 @@ If you\'re thinking about restoring historic floors, [we\'d be honored to take a
 - **Historic homes (Redlands, Riverside):** restore original wood floors. Replacing with modern hardwood is a value mistake on character homes.
 - **Rentals being sold to investors:** LVP throughout. Tile in wet rooms.
 
-If you\'re planning to sell in the next 1 – 3 years, [we\'ll do a free walkthrough](/contact/) and tell you what actually moves the price.`,
+If you\'re planning to sell in the next 1 – 3 years, [we\'ll do a free walkthrough](https://monteros.localfloorpros.com/book-now-page) and tell you what actually moves the price.`,
     internalLinks: [
       { href: '/services/hardwood-floor-refinishing/', text: 'refinishing' },
       { href: '/services/luxury-vinyl-plank/', text: 'LVP install' },
