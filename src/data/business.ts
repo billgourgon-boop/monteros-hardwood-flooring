@@ -15,7 +15,7 @@ export const business = {
   phoneE164:    '+19092798225',
   phoneDisplay: '(909) 279-8225',
 
-  email: 'info@monteroshardwoodflooring.com',
+  email: 'monteroshardwood@gmail.com',
 
   address: {
     street:      '717 W 36th St',
