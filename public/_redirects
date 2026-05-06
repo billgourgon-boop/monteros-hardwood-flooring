@@ -1,0 +1,23 @@
+# 301 redirects from the old LeadConnector site → new Astro URLs.
+# Format: <old-path>  <new-path>  <status>
+# Cloudflare Pages reads this file from the deploy root.
+
+# Homepage alias
+/home  /  301
+
+# Service pages — slugs renamed on the new site
+/services/luxury-vinyl-plank-installation  /services/luxury-vinyl-plank/  301
+/services/laminate-flooring-installation   /services/laminate-flooring/   301
+
+# Contact
+/contact-us  /contact/  301
+
+# City pages — old flat URL → new nested areas-we-serve structure
+/flooring-installation-san-bernardino    /areas-we-serve/san-bernardino/hardwood-flooring-installation/    301
+/flooring-installation-fontana           /areas-we-serve/fontana/hardwood-flooring-installation/           301
+/flooring-installation-rancho-cucamonga  /areas-we-serve/rancho-cucamonga/hardwood-flooring-installation/  301
+/flooring-installation-ontario           /areas-we-serve/ontario/hardwood-flooring-installation/           301
+/flooring-installation-riverside         /areas-we-serve/riverside/hardwood-flooring-installation/         301
+/flooring-installation-corona            /areas-we-serve/corona/hardwood-flooring-installation/            301
+/flooring-installation-rialto            /areas-we-serve/rialto/hardwood-flooring-installation/            301
+/flooring-installation-redlands          /areas-we-serve/redlands/hardwood-flooring-installation/          301
