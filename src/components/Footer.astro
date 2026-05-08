@@ -94,12 +94,21 @@ import { cities } from '~/data/cities';
       </div>
     </div>
 
-    <div class="mt-12 pt-8 border-t border-white/10 flex flex-col md:flex-row md:items-center md:justify-between gap-4 text-xs text-slate-400">
-      <div>© {new Date().getFullYear()} {business.legalName}. Family-owned for {business.yearsInBusiness}+ years. CSLB licensed and insured.</div>
-      <div class="flex items-center gap-4">
+    <div class="mt-12 pt-8 border-t border-white/10 text-xs text-slate-400 space-y-4">
+      <div class="flex items-center justify-end gap-4">
         <a href="/privacy/" class="hover:text-white">Privacy</a>
         <a href="/terms/" class="hover:text-white">Terms</a>
         <a href="/sitemap.xml" class="hover:text-white">XML Sitemap</a>
+      </div>
+      <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+        <div class="flex items-center gap-3">
+          <img src={business.brand.logo} alt={business.brandName} width="40" height="40" loading="lazy" decoding="async" class="h-10 w-10 rounded-md bg-white p-1 shrink-0" />
+          <div>Copyright, all rights reserved, 2026</div>
+        </div>
+        <a href="https://thorwellgroup.com" target="_blank" rel="noopener" class="md:text-right leading-relaxed hover:text-white transition-colors" style="font-family: 'Raleway', sans-serif; font-weight: 400;">
+          <div>site designed and hosted by Thor<span style="color: #CBFBB4;">w</span>ell Group</div>
+          <div>Future of Flooring</div>
+        </a>
       </div>
     </div>
   </div>
