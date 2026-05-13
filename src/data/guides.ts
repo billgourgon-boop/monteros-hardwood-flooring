@@ -24,7 +24,7 @@ export const guides: Guide[] = [
     title: 'Solid Hardwood Flooring',
     metaTitle: 'Solid Hardwood Flooring Installation in the Inland Empire',
     metaDesc: 'Solid 3/4-inch hardwood floors installed across the Inland Empire. Oak, hickory, maple - refinishable for decades. Free estimates from a 20+ year contractor.',
-    intro: 'Traditional 3/4-inch solid hardwood - the floor that lasts a lifetime and refinishes 4 â€“ 7 times along the way.',
+    intro: 'Traditional 3/4-inch solid hardwood - the floor that lasts a lifetime and refinishes 4 - 7 times along the way.',
     image: '/images/hardwood-flooring-installation.webp',
     alt: 'Solid hardwood flooring installed in an Inland Empire home',
     parentService: 'hardwood-flooring-installation',
@@ -67,20 +67,20 @@ For a free in-home estimate with samples, [reach out](/free-estimate/).`,
 
 ## How it\'s made
 
-A 1 â€“ 6 mm wear layer of real hardwood is bonded to a 5 â€“ 7 ply plywood or HDF core. Total thickness usually 1/2" to 5/8".
+A 1 - 6 mm wear layer of real hardwood is bonded to a 5 - 7 ply plywood or HDF core. Total thickness usually 1/2" to 5/8".
 
 ## Where it wins
 
 - **Slab subfloors** - the dominant subfloor in Fontana, Ontario, newer Rancho Cucamonga, and most post-1990 Inland Empire construction.
-- **Wide planks (5" â€“ 9")** - the plywood core resists movement, so wide-plank engineered stays flat where solid would cup.
+- **Wide planks (5" - 9")** - the plywood core resists movement, so wide-plank engineered stays flat where solid would cup.
 - **Variable humidity rooms** - kitchens and basements (where present) handle engineered better.
 
 ## What to ask about wear-layer thickness
 
 The wear-layer thickness in millimeters is the number that matters:
-- **1 â€“ 2 mm**: budget grade. Cannot be refinished. Plan to replace in 15 â€“ 20 years.
-- **3 â€“ 4 mm**: mid-grade. 1 â€“ 2 light refinishes possible.
-- **4 â€“ 6 mm**: premium grade. Refinishes like solid, lasts 30 â€“ 50 years.
+- **1 - 2 mm**: budget grade. Cannot be refinished. Plan to replace in 15 - 20 years.
+- **3 - 4 mm**: mid-grade. 1 - 2 light refinishes possible.
+- **4 - 6 mm**: premium grade. Refinishes like solid, lasts 30 - 50 years.
 
 We bring engineered samples with documented wear-layer specs to every estimate.
 
@@ -112,11 +112,11 @@ Engineered wide-plank European oak in living/dining + LVP in wet rooms is one of
 
 ## Pricing window
 
-Premium European oak runs $14 â€“ $22+ per square foot installed. The price is real - but so is the look. We bring samples in multiple widths and finishes to every estimate.
+Premium European oak runs $14 - $22+ per square foot installed. The price is real - but so is the look. We bring samples in multiple widths and finishes to every estimate.
 
 ## Care notes
 
-Wider planks expand and contract more in absolute terms with humidity. A whole-house humidifier on HVAC keeps indoor humidity in the 35 â€“ 50% band - non-negotiable for wide-plank longevity in our climate.
+Wider planks expand and contract more in absolute terms with humidity. A whole-house humidifier on HVAC keeps indoor humidity in the 35 - 50% band - non-negotiable for wide-plank longevity in our climate.
 
 [Schedule a free in-home consultation](/free-estimate/) with European oak samples.`,
     relatedGuides: ['engineered-hardwood-flooring', 'solid-hardwood-flooring'],
@@ -145,7 +145,7 @@ Wider planks expand and contract more in absolute terms with humidity. A whole-h
 - **Cooler, browner undertone.** Modern preference. Takes grey, white-washed, and natural finishes beautifully.
 - **Tighter grain pattern.** Cleaner look, takes stain more evenly.
 - **Slightly harder** than red oak.
-- **Premium pricing** - typically 10 â€“ 20% more than red oak.
+- **Premium pricing** - typically 10 - 20% more than red oak.
 
 ## Which we recommend in 2026
 
@@ -155,9 +155,9 @@ That said, red oak is still excellent and the right choice in homes where it mat
 
 ## Cost
 
-- Red oak: $8 â€“ $12 per sq ft installed
-- White oak: $10 â€“ $15 per sq ft installed
-- Wide-plank white oak: $13 â€“ $18+ per sq ft installed
+- Red oak: $8 - $12 per sq ft installed
+- White oak: $10 - $15 per sq ft installed
+- Wide-plank white oak: $13 - $18+ per sq ft installed
 
 [Get a free estimate](/free-estimate/) with both red and white oak samples on-site.`,
     relatedGuides: ['hickory-flooring', 'wide-plank-european-oak'],
@@ -190,11 +190,11 @@ That said, red oak is still excellent and the right choice in homes where it mat
 
 - **Modern minimalist interiors** - character grain may feel busy.
 - **Spaces where uniform color matters** - the natural variation can\'t be controlled.
-- **Tight budgets** - hickory runs $11 â€“ $16 per sq ft installed, similar to white oak.
+- **Tight budgets** - hickory runs $11 - $16 per sq ft installed, similar to white oak.
 
 ## Maintenance notes
 
-Same as oak - hardwood-specific cleaner only, felt pads under furniture, humidity in the 35 â€“ 50% band. The hardness means scratches that would mar oak often don\'t register on hickory.
+Same as oak - hardwood-specific cleaner only, felt pads under furniture, humidity in the 35 - 50% band. The hardness means scratches that would mar oak often don\'t register on hickory.
 
 [See hickory samples](/free-estimate/) at your free in-home estimate.`,
     relatedGuides: ['oak-flooring', 'solid-hardwood-flooring'],
@@ -240,7 +240,7 @@ Most quality residential LVP today is SPC with an attached cork or foam pad for 
 
 ## Pricing
 
-$5 â€“ $9 per sq ft installed for quality waterproof LVP. Premium options with thicker wear layers, larger plank sizes, and embossed-in-register textures run higher.
+$5 - $9 per sq ft installed for quality waterproof LVP. Premium options with thicker wear layers, larger plank sizes, and embossed-in-register textures run higher.
 
 [Bring waterproof LVP samples to my home](/free-estimate/).`,
     relatedGuides: ['spc-flooring', 'pet-friendly-flooring'],
@@ -281,7 +281,7 @@ Both are excellent. We bring both to every LVP estimate.
 
 ## Pricing
 
-$5 â€“ $9 per sq ft installed. Wear-layer thickness drives price more than core type.
+$5 - $9 per sq ft installed. Wear-layer thickness drives price more than core type.
 
 [See SPC samples](/free-estimate/) at your free in-home estimate.`,
     relatedGuides: ['waterproof-luxury-vinyl-plank', 'pet-friendly-flooring'],
@@ -308,7 +308,7 @@ $5 â€“ $9 per sq ft installed. Wear-layer thickness drives price more than 
 
 ## Why click-lock
 
-- **Fast.** Whole-house in 1 â€“ 3 days.
+- **Fast.** Whole-house in 1 - 3 days.
 - **Forgiving.** Floats over many imperfections that would telegraph through glue-down.
 - **No off-gassing wait.** Walk on it the same day.
 - **Removable.** If you need to access subfloor under a board, pull it up, fix, click back.
@@ -362,7 +362,7 @@ Water-resistant is real and meaningful, but it\'s not the same as fully waterpro
 
 ## Cost
 
-$3 â€“ $7 per sq ft installed. Often the budget-friendly choice for whole-house installs in dry rooms.
+$3 - $7 per sq ft installed. Often the budget-friendly choice for whole-house installs in dry rooms.
 
 [Free estimate with laminate samples](/free-estimate/).`,
     relatedGuides: ['ac-rated-laminate', 'laminate-vs-luxury-vinyl-plank'],
@@ -468,7 +468,7 @@ Dust-contained systems cost more in equipment and consumables than open sanding.
 ## When it makes sense
 
 - **Finish is dull but not scratched through to bare wood.**
-- **Floor has been refinished within 5 â€“ 10 years** and the finish is just tired.
+- **Floor has been refinished within 5 - 10 years** and the finish is just tired.
 - **You want to extend finish life without the cost of full refinishing.**
 - **Pet households where the floor needs more frequent refresh than full refinish allows.**
 
@@ -487,16 +487,16 @@ For any of those, a full refinish (sand-stain-seal) is the right move.
 1. Vacuum and clean the floor thoroughly.
 2. Light screen-sand with a buffer + screen pad.
 3. Vacuum and tack-cloth.
-4. Apply 1 â€“ 2 coats of fresh polyurethane.
+4. Apply 1 - 2 coats of fresh polyurethane.
 5. Walk-on after 24 hours; furniture after 5 days.
 
 ## Cost
 
-$1.50 â€“ $3 per sq ft. Roughly half to one-third the cost of full refinishing.
+$1.50 - $3 per sq ft. Roughly half to one-third the cost of full refinishing.
 
 ## Frequency
 
-Most well-maintained hardwood floors benefit from screen-and-recoat every 5 â€“ 8 years. It can extend the time between full refinishes by years and adds significant total floor life.
+Most well-maintained hardwood floors benefit from screen-and-recoat every 5 - 8 years. It can extend the time between full refinishes by years and adds significant total floor life.
 
 [Free assessment of your existing finish](/free-estimate/).`,
     relatedGuides: ['dustless-floor-refinishing', 'sand-and-stain'],
@@ -524,7 +524,7 @@ Most well-maintained hardwood floors benefit from screen-and-recoat every 5 â�
 7. **Stain test patch** - 2x2 ft sample in your home with your wood, your light. You sign off before we proceed.
 8. **Full stain application.**
 9. **Sealer coat.**
-10. **2 â€“ 3 finish coats** with light screening between coats.
+10. **2 - 3 finish coats** with light screening between coats.
 11. **Final inspection and walk-through.**
 
 ## Stain choices
@@ -543,17 +543,17 @@ Most well-maintained hardwood floors benefit from screen-and-recoat every 5 â�
 
 ## Timeline
 
-- **Days 1 â€“ 2:** sanding.
-- **Days 2 â€“ 3:** stain and first coats.
-- **Days 3 â€“ 5:** finish coats.
+- **Days 1 - 2:** sanding.
+- **Days 2 - 3:** stain and first coats.
+- **Days 3 - 5:** finish coats.
 - **Walkable** after 24 hours from final coat.
-- **Furniture back** after 5 â€“ 7 days.
+- **Furniture back** after 5 - 7 days.
 - **Area rugs** after 14 days.
 - **Full cure** at 30 days.
 
 ## Cost
 
-$3 â€“ $7 per sq ft for full refinishing. Stain choice and finish type affect price slightly.
+$3 - $7 per sq ft for full refinishing. Stain choice and finish type affect price slightly.
 
 [Free in-home refinishing estimate](/free-estimate/).`,
     relatedGuides: ['dustless-floor-refinishing', 'screen-and-recoat'],
@@ -581,9 +581,9 @@ $3 â€“ $7 per sq ft for full refinishing. Stain choice and finish type affe
 
 ## The damage progression
 
-- **Hour 0 â€“ 4:** floor surface is wet but recoverable if dried fast.
-- **Hour 4 â€“ 24:** water has penetrated wood. Cupping likely.
-- **Day 1 â€“ 7:** discoloration and staining set in. Some recovers; some permanent.
+- **Hour 0 - 4:** floor surface is wet but recoverable if dried fast.
+- **Hour 4 - 24:** water has penetrated wood. Cupping likely.
+- **Day 1 - 7:** discoloration and staining set in. Some recovers; some permanent.
 - **Day 7+:** mold risk. Subfloor damage likely.
 
 ## What we do
@@ -627,29 +627,29 @@ $3 â€“ $7 per sq ft for full refinishing. Stain choice and finish type affe
 
 - **Cause:** pet nails, dragged shoes, light furniture movement.
 - **Fix:** finish-only repair. Lightly screen-sand, fill if needed, recoat the affected area or do a screen-and-recoat of the room. Invisible result.
-- **Cost:** $200 â€“ $500 for a small area.
+- **Cost:** $200 - $500 for a small area.
 
 ## Medium scratches into the stain
 
 - **Cause:** dropped tools, pet damage from a bigger animal, dragged appliance.
 - **Fix:** color-matched filler, blended stain touch-up, finish coat. Requires skill but invisible result.
-- **Cost:** $300 â€“ $800 depending on area.
+- **Cost:** $300 - $800 depending on area.
 
 ## Deep gouges into bare wood
 
 - **Cause:** dropped sharp object, moved heavy furniture without pads.
 - **Fix:** wood filler + custom-mixed stain to match the original wood color, then finish coat. Visible from up close; invisible from across the room.
-- **Cost:** $400 â€“ $1,000.
+- **Cost:** $400 - $1,000.
 
 ## Severe damage requiring board replacement
 
 - **Cause:** chronic pet urine that\'s soaked through, fire damage, deep gouges that can\'t be filled.
 - **Fix:** cut out damaged boards, weave in matching new boards, custom-stain to match, refinish surrounding area.
-- **Cost:** $500 â€“ $2,500+ depending on board count and matching difficulty.
+- **Cost:** $500 - $2,500+ depending on board count and matching difficulty.
 
 ## Whole-room consideration
 
-If a room has more than 5 â€“ 10 areas of damage, it\'s often more cost-effective to refinish the whole room than to do many spot repairs. The floor will look better and the per-sq-ft cost is similar.
+If a room has more than 5 - 10 areas of damage, it\'s often more cost-effective to refinish the whole room than to do many spot repairs. The floor will look better and the per-sq-ft cost is similar.
 
 ## What we won\'t do
 
@@ -683,7 +683,7 @@ If a room has more than 5 â€“ 10 areas of damage, it\'s often more cost-eff
 ## What we see most in Inland Empire kitchens
 
 - **2010s+ slab homes (Fontana, Ontario, Eastvale, newer Rancho):** LVP throughout main floor, including kitchen. Whole-house consistency.
-- **Older slab homes (1980s â€“ 2000s):** LVP or tile in kitchen, hardwood in living/dining.
+- **Older slab homes (1980s - 2000s):** LVP or tile in kitchen, hardwood in living/dining.
 - **Historic raised-foundation homes (Redlands, Riverside):** original hardwood or refinished oak. Sometimes paired with tile inset at sink.
 - **Custom homes:** wide-plank engineered hardwood throughout, with rare exception.
 
@@ -696,10 +696,10 @@ If a room has more than 5 â€“ 10 areas of damage, it\'s often more cost-eff
 
 ## Cost ranges
 
-- LVP: $5 â€“ $9 per sq ft installed
-- Tile: $10 â€“ $20 per sq ft installed
-- Engineered hardwood: $9 â€“ $16 per sq ft installed
-- Solid hardwood: $10 â€“ $16 per sq ft installed (raised foundations only)
+- LVP: $5 - $9 per sq ft installed
+- Tile: $10 - $20 per sq ft installed
+- Engineered hardwood: $9 - $16 per sq ft installed
+- Solid hardwood: $10 - $16 per sq ft installed (raised foundations only)
 
 [Free kitchen flooring estimate](/free-estimate/) with samples brought to your home.`,
     relatedGuides: ['waterproof-luxury-vinyl-plank', 'engineered-hardwood-flooring'],
@@ -721,15 +721,15 @@ The traditional and bulletproof choice. Porcelain or natural stone. Lasts decade
 
 - **Pros:** lifetime durability, fully waterproof, scratch-proof, classic look.
 - **Cons:** cold underfoot, hard on dropped items, grout requires periodic sealing.
-- **Cost:** $10 â€“ $20 per sq ft installed for porcelain. More for natural stone.
+- **Cost:** $10 - $20 per sq ft installed for porcelain. More for natural stone.
 
 ## Waterproof LVP
 
 The modern alternative. Quality SPC or rigid-core LVP is fully waterproof and warmer underfoot than tile.
 
 - **Pros:** waterproof, warm and quiet underfoot, easy install over existing flooring, lower cost.
-- **Cons:** can show wear in 15 â€“ 20 years vs tile\'s lifetime; less prestigious than tile in upper-tier homes.
-- **Cost:** $5 â€“ $9 per sq ft installed.
+- **Cons:** can show wear in 15 - 20 years vs tile\'s lifetime; less prestigious than tile in upper-tier homes.
+- **Cost:** $5 - $9 per sq ft installed.
 
 ## What we don\'t install in full bathrooms
 
@@ -856,7 +856,7 @@ Even in dry Southern California, slab basements can wick moisture from the surro
 
 **2. AC5 commercial laminate.** Cost-effective for offices and back-of-house. Realistic wood looks.
 
-**3. Hardwood (engineered, 4 â€“ 6 mm wear layer).** Upper-tier showrooms, boutique retail, designer offices. Refinishable, premium feel.
+**3. Hardwood (engineered, 4 - 6 mm wear layer).** Upper-tier showrooms, boutique retail, designer offices. Refinishable, premium feel.
 
 **4. Polished concrete.** Industrial chic look, lowest long-term maintenance, requires existing slab in good condition.
 
@@ -868,7 +868,7 @@ Even in dry Southern California, slab basements can wick moisture from the surro
 
 ## Install windows
 
-Most commercial install timelines are tight. We work nights and weekends when needed to minimize business disruption. Click-lock LVP installs especially fast - large open spaces in 2 â€“ 3 days for thousands of square feet.
+Most commercial install timelines are tight. We work nights and weekends when needed to minimize business disruption. Click-lock LVP installs especially fast - large open spaces in 2 - 3 days for thousands of square feet.
 
 ## Considerations specific to commercial
 
@@ -894,8 +894,8 @@ Most commercial install timelines are tight. We work nights and weekends when ne
 
 ## Cost
 
-- **Hardwood:** $8 â€“ $16 per sq ft installed.
-- **LVP:** $4 â€“ $9 per sq ft installed.
+- **Hardwood:** $8 - $16 per sq ft installed.
+- **LVP:** $4 - $9 per sq ft installed.
 - **Winner:** LVP for budget; depends on priorities at higher tiers.
 
 ## Water resistance
@@ -912,8 +912,8 @@ Most commercial install timelines are tight. We work nights and weekends when ne
 
 ## Lifespan
 
-- **Hardwood:** 75 â€“ 100+ years with refinishing along the way.
-- **LVP:** 15 â€“ 30 years residential.
+- **Hardwood:** 75 - 100+ years with refinishing along the way.
+- **LVP:** 15 - 30 years residential.
 - **Winner:** Hardwood, by a lot.
 
 ## Resale value
@@ -930,8 +930,8 @@ Most commercial install timelines are tight. We work nights and weekends when ne
 
 ## Install time
 
-- **Hardwood:** 3 â€“ 7 days including acclimation.
-- **LVP:** 1 â€“ 3 days, no cure time.
+- **Hardwood:** 3 - 7 days including acclimation.
+- **LVP:** 1 - 3 days, no cure time.
 - **Winner:** LVP.
 
 ## When to choose hardwood
@@ -970,8 +970,8 @@ Hardwood (or engineered) in living/dining/bedrooms + LVP in kitchens/baths/laund
 
 ## Cost
 
-- **Hardwood:** $8 â€“ $16 per sq ft installed.
-- **Laminate:** $3 â€“ $7 per sq ft installed.
+- **Hardwood:** $8 - $16 per sq ft installed.
+- **Laminate:** $3 - $7 per sq ft installed.
 - **Difference:** Laminate is roughly half the cost.
 
 ## Authenticity
@@ -981,13 +981,13 @@ Hardwood (or engineered) in living/dining/bedrooms + LVP in kitchens/baths/laund
 
 ## Refinishability
 
-- **Hardwood:** can be sanded and refinished 4 â€“ 7 times (solid) or 2 â€“ 4 times (engineered).
+- **Hardwood:** can be sanded and refinished 4 - 7 times (solid) or 2 - 4 times (engineered).
 - **Laminate:** cannot be refinished. Photo wear layer is finished at the factory and replaced when worn.
 
 ## Lifespan
 
-- **Hardwood:** 75 â€“ 100+ years.
-- **Laminate:** 15 â€“ 25 years residential.
+- **Hardwood:** 75 - 100+ years.
+- **Laminate:** 15 - 25 years residential.
 
 ## Water resistance
 
@@ -1014,7 +1014,7 @@ Hardwood (or engineered) in living/dining/bedrooms + LVP in kitchens/baths/laund
 ## When to choose laminate
 
 - Budget is the priority and LVP isn\'t available within budget.
-- Short-to-medium term hold (5 â€“ 10 years).
+- Short-to-medium term hold (5 - 10 years).
 - Dry rooms only (avoid full bathrooms).
 - Rental properties (though we usually steer to LVP).
 
@@ -1038,8 +1038,8 @@ For most homeowners considering laminate today, we recommend looking at LVP at t
 
 ## Cost
 
-- **Laminate:** $3 â€“ $7 per sq ft installed.
-- **LVP:** $4 â€“ $9 per sq ft installed.
+- **Laminate:** $3 - $7 per sq ft installed.
+- **LVP:** $4 - $9 per sq ft installed.
 - **Winner:** Laminate by a small margin.
 
 ## Water resistance
@@ -1112,13 +1112,13 @@ For most clients today, we install LVP. The price gap with laminate has narrowed
 ## Construction
 
 - **Solid:** one piece of hardwood, 3/4" thick, tongue-and-groove.
-- **Engineered:** wear layer of real hardwood (1 â€“ 6 mm) on a multi-ply plywood core. Total thickness 1/2" â€“ 5/8".
+- **Engineered:** wear layer of real hardwood (1 - 6 mm) on a multi-ply plywood core. Total thickness 1/2" - 5/8".
 
 ## Refinishability
 
-- **Solid:** 4 â€“ 7 full refinishes possible over the floor\'s lifetime.
-- **Engineered with 4 â€“ 6 mm wear layer:** 2 â€“ 4 refinishes possible.
-- **Engineered with 1 â€“ 2 mm wear layer:** cannot be refinished; replaced at end of life.
+- **Solid:** 4 - 7 full refinishes possible over the floor\'s lifetime.
+- **Engineered with 4 - 6 mm wear layer:** 2 - 4 refinishes possible.
+- **Engineered with 1 - 2 mm wear layer:** cannot be refinished; replaced at end of life.
 
 ## Subfloor compatibility
 
@@ -1127,20 +1127,20 @@ For most clients today, we install LVP. The price gap with laminate has narrowed
 
 ## Plank widths
 
-- **Solid:** stable up to about 4" â€“ 5". Wider widths are prone to cupping in our climate.
-- **Engineered:** stable at 6" â€“ 9" wide planks. The reason wide-plank floors are almost always engineered.
+- **Solid:** stable up to about 4" - 5". Wider widths are prone to cupping in our climate.
+- **Engineered:** stable at 6" - 9" wide planks. The reason wide-plank floors are almost always engineered.
 
 ## Cost
 
-- **Solid:** $9 â€“ $16 per sq ft installed.
-- **Engineered:** $9 â€“ $18 per sq ft installed (wider range due to wear-layer variation).
+- **Solid:** $9 - $16 per sq ft installed.
+- **Engineered:** $9 - $18 per sq ft installed (wider range due to wear-layer variation).
 - **Winner:** Comparable at similar quality tiers.
 
 ## Lifespan
 
-- **Solid:** 75 â€“ 100+ years with refinishing.
-- **Engineered (premium):** 30 â€“ 50 years with refinishing.
-- **Engineered (budget):** 15 â€“ 20 years.
+- **Solid:** 75 - 100+ years with refinishing.
+- **Engineered (premium):** 30 - 50 years with refinishing.
+- **Engineered (budget):** 15 - 20 years.
 
 ## Climate stability in the Inland Empire
 
@@ -1151,7 +1151,7 @@ For most clients today, we install LVP. The price gap with laminate has narrowed
 
 - Raised-foundation home.
 - Long-term ownership (decades).
-- Aesthetic priority on traditional 2-1/4" â€“ 5" plank widths.
+- Aesthetic priority on traditional 2-1/4" - 5" plank widths.
 - Historic home where solid is appropriate.
 
 ## When to choose engineered
