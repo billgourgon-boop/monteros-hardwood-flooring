@@ -22,14 +22,14 @@ const t = lang === 'es'
       copyright: 'Derechos reservados',
       privacy: 'Privacidad',
       terms: 'Términos',
-      designedBy: 'sitio diseñado y alojado por',
+      designedBy: 'embudos diseñados y alojados por',
     }
   : {
       tagline: 'Hardwood Flooring',
       copyright: 'Copyright, all rights reserved',
       privacy: 'Privacy',
       terms: 'Terms',
-      designedBy: 'site designed and hosted by',
+      designedBy: 'funnels designed and hosted by',
     };
 ---
 <!doctype html>
@@ -94,7 +94,6 @@ const t = lang === 'es'
             <div>{t.copyright}, {new Date().getFullYear()}</div>
           </div>
           <div class="flex items-center gap-5">
-            <a href={`tel:${business.phoneE164}`} class="text-white hover:text-brand-200 font-semibold">{business.phoneDisplay}</a>
             <a href="/privacy/" class="hover:text-white">{t.privacy}</a>
             <a href="/terms/" class="hover:text-white">{t.terms}</a>
           </div>

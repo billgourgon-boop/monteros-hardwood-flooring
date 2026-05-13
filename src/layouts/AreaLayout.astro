@@ -7,6 +7,7 @@ import ServiceGrid from '~/components/ServiceGrid.astro';
 import GoogleMap from '~/components/GoogleMap.astro';
 import FAQ from '~/components/FAQ.astro';
 import CTABanner from '~/components/CTABanner.astro';
+import ProjectGallery from '~/components/ProjectGallery.astro';
 import { breadcrumbSchema, faqSchema } from '~/lib/schema';
 import { generalFaqs } from '~/data/faqs';
 import { business } from '~/data/business';
@@ -49,6 +50,17 @@ const schemas = [
 
 const title = `Hardwood, LVP & Laminate Flooring in ${city.name}, ${city.state}`;
 const description = `${city.name} flooring contractor for hardwood installation, refinishing, luxury vinyl plank, laminate, and floor repair. Family-owned for 20+ years. Free in-home estimates.`;
+
+const projectPhotos = [
+  { src: '/images/hardwood-modern-open-living.webp', alt: `Modern open-concept hardwood flooring in ${city.name}` },
+  { src: '/images/hardwood-formal-living-room.webp', alt: `Formal living-room hardwood flooring in ${city.name}` },
+  { src: '/images/hardwood-large-living-space.webp', alt: `Hardwood flooring across a large ${city.name} living space` },
+  { src: '/images/hardwood-kitchen-flooring.webp', alt: `Hardwood kitchen flooring in ${city.name}` },
+  { src: '/images/hardwood-staircase-installation.webp', alt: `Hardwood staircase installation in ${city.name}` },
+  { src: '/images/hardwood-floor-refinishing.webp', alt: `Mid-refinish hardwood floor in ${city.name}` },
+  { src: '/images/luxury-vinyl-plank-living-room.webp', alt: `Luxury vinyl plank flooring in a ${city.name} living room` },
+  { src: '/images/laminate-large-space.webp', alt: `Laminate flooring across a large ${city.name} room` },
+];
 ---
 <BaseLayout
   title={title}
@@ -98,6 +110,12 @@ const description = `${city.name} flooring contractor for hardwood installation,
     city={city}
     heading={`Our Services in ${city.name}`}
     subheading={`Click any service to see ${city.name}-specific details, pricing, and FAQ.`}
+  />
+
+  <ProjectGallery
+    heading={`Recent Projects Across ${city.county}`}
+    subheading={`A look at the kinds of floors we install and refinish in ${city.name} homes.`}
+    photos={projectPhotos}
   />
 
   <FAQ faqs={cityFaqs} heading={`${city.name} Flooring FAQ`} />
