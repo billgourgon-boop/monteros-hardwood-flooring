@@ -43,11 +43,11 @@ What's *not* always included: moving heavy furniture, baseboards (sometimes quot
 
 ## Four things that move the price
 
-**1. Species and width.** Domestic red oak at 3-1/4" strip is the budget end, around $8 – $10 per sq ft installed. Wide-plank white oak or European oak runs $14 – $18+. Hickory and exotic species sit in between.
+**1. Species and width.** Domestic red oak at 3-1/4" strip is the budget end, around $8 â€“ $10 per sq ft installed. Wide-plank white oak or European oak runs $14 â€“ $18+. Hickory and exotic species sit in between.
 
 **2. Subfloor condition.** A flat slab is fast. A subfloor with high spots, low spots, water damage, or moisture issues adds prep time - sometimes a full day before any flooring goes down.
 
-**3. Stairs.** Hardwood stairs run $80 – $200+ per tread because each tread is custom-cut and finished. A 14-tread staircase is a separate project budget on its own.
+**3. Stairs.** Hardwood stairs run $80 â€“ $200+ per tread because each tread is custom-cut and finished. A 14-tread staircase is a separate project budget on its own.
 
 **4. Demo complexity.** Pulling carpet is fast. Pulling glued-down tile or vinyl is slow. We see this most on 1950s ranches in Redlands and central San Bernardino where multiple flooring layers sit on top of each other.
 
@@ -55,7 +55,7 @@ What's *not* always included: moving heavy furniture, baseboards (sometimes quot
 
 In the Inland Empire's climate - dry summers, occasional humid spells, hot attic spaces - both work. Here's how we usually steer the conversation:
 
-- **Solid hardwood (3/4" thick)** if you want the option to refinish 4 – 7 times over the floor's lifetime, you're on a raised foundation, and you're staying long-term.
+- **Solid hardwood (3/4" thick)** if you want the option to refinish 4 â€“ 7 times over the floor's lifetime, you're on a raised foundation, and you're staying long-term.
 - **Engineered hardwood** if you're on slab (most homes built after 1990 in the Inland Empire), if you want wider planks (5"+ is hard to do in solid here without movement), or if budget calls for fewer dollars per square foot.
 
 ## What about the cheaper quotes?
@@ -64,7 +64,7 @@ If a quote is significantly under $8/sq ft installed for hardwood, ask: Is the m
 
 Get a written, itemized quote from at least two contractors and compare them line-by-line, not just the bottom number. That's the single best move you can make as a homeowner.
 
-For a free in-home estimate anywhere in the Inland Empire, [reach out](https://monteros.localfloorpros.com/book-now-page).`,
+For a free in-home estimate anywhere in the Inland Empire, [reach out](/free-estimate/).`,
     internalLinks: [
       { href: '/services/hardwood-flooring-installation/', text: 'hardwood floor installation' },
       { href: '/services/floor-repair/', text: 'subfloor and board repair' },
@@ -86,16 +86,16 @@ For a free in-home estimate anywhere in the Inland Empire, [reach out](https://m
 ## Where LVP wins
 
 - **Water.** Spills, pet accidents, dishwasher leaks - LVP shrugs them off. Hardwood can't.
-- **Cost.** LVP installed runs $4 – $9 per sq ft. Hardwood is $8 – $16. The gap is real.
-- **Speed.** A whole-house LVP install is usually 1 – 3 days. Hardwood with acclimation is 3 – 7.
+- **Cost.** LVP installed runs $4 â€“ $9 per sq ft. Hardwood is $8 â€“ $16. The gap is real.
+- **Speed.** A whole-house LVP install is usually 1 â€“ 3 days. Hardwood with acclimation is 3 â€“ 7.
 - **Pet households.** If you have dogs and the worry of nail scratches keeps you up, LVP is the answer.
 
 ## Where hardwood wins
 
 - **Resale.** "Real hardwood" still appears in listing remarks. LVP usually does not. In neighborhoods where hardwood is expected (parts of Redlands, Riverside's Wood Streets, custom homes in Etiwanda), it matters.
-- **Refinishability.** Solid hardwood can be sanded and re-stained 4 – 7 times. LVP can't be refinished - when the wear layer is gone, it's replaced.
+- **Refinishability.** Solid hardwood can be sanded and re-stained 4 â€“ 7 times. LVP can't be refinished - when the wear layer is gone, it's replaced.
 - **Feel underfoot.** Quality LVP is good. Hardwood is unmistakable.
-- **Lifespan.** A well-cared-for hardwood floor outlasts the house. LVP is rated for 20 – 30 years residential.
+- **Lifespan.** A well-cared-for hardwood floor outlasts the house. LVP is rated for 20 â€“ 30 years residential.
 
 ## How we usually steer the conversation
 
@@ -109,7 +109,7 @@ For a free in-home estimate anywhere in the Inland Empire, [reach out](https://m
 
 You don't have to pick one for the whole house. We do plenty of jobs where the main living areas are hardwood and the bathrooms, laundry, and entryway are LVP - color-matched so the visual transition is subtle. It's the best of both worlds and almost always the right answer for kitchens.
 
-If you want to see samples of both side-by-side in your own light, we bring them to every free estimate. [Schedule one here](https://monteros.localfloorpros.com/book-now-page).`,
+If you want to see samples of both side-by-side in your own light, we bring them to every free estimate. [Schedule one here](/free-estimate/).`,
     internalLinks: [
       { href: '/services/hardwood-flooring-installation/', text: 'hardwood installation' },
       { href: '/services/luxury-vinyl-plank/', text: 'luxury vinyl plank' },
@@ -136,7 +136,7 @@ If you want to see samples of both side-by-side in your own light, we bring them
 
 ## What to do
 
-**Keep indoor humidity in a 35 – 55% band, year-round.** A whole-house humidifier on the HVAC is the single best move. Standalone room humidifiers help in winter; AC alone usually keeps summer in range. Cheap hygrometers tell you where you are - buy two and put one in your living room.
+**Keep indoor humidity in a 35 â€“ 55% band, year-round.** A whole-house humidifier on the HVAC is the single best move. Standalone room humidifiers help in winter; AC alone usually keeps summer in range. Cheap hygrometers tell you where you are - buy two and put one in your living room.
 
 **Use rugs in direct-sun rooms.** Move them every few months so the unrugged areas catch up on UV exposure. Otherwise you get a permanent rug-shaped color difference when you eventually move it.
 
@@ -144,7 +144,7 @@ If you want to see samples of both side-by-side in your own light, we bring them
 
 **Damp mop, never wet.** Standing water is the enemy of every wood floor, no matter the finish.
 
-**Felt pads under furniture.** Replace every 6 – 12 months. Worn felt collects grit and turns chair legs into sandpaper.
+**Felt pads under furniture.** Replace every 6 â€“ 12 months. Worn felt collects grit and turns chair legs into sandpaper.
 
 **Walk-off mats at every entry.** Most floor scratches come from grit tracked in. A 4-foot mat at the front door catches 80% of it.
 
@@ -159,7 +159,7 @@ If you want to see samples of both side-by-side in your own light, we bring them
 
 If you see early cupping, gapping wider than a dime, or a finish that\'s scratched through to bare wood - call before the damage spreads. Most issues caught early are repairable. Wait too long and you\'re looking at full refinish or board replacement.
 
-Need an inspection? [Reach out for a free assessment](https://monteros.localfloorpros.com/book-now-page).`,
+Need an inspection? [Reach out for a free assessment](/free-estimate/).`,
     internalLinks: [
       { href: '/services/hardwood-floor-refinishing/', text: 'refinishing' },
       { href: '/services/floor-repair/', text: 'board repair' },
@@ -180,16 +180,16 @@ Need an inspection? [Reach out for a free assessment](https://monteros.localfloo
 
 ## The deciding factor: wear-layer thickness
 
-Solid 3/4-inch hardwood has roughly 1/4 inch of usable wood above the tongue and groove. Each refinish takes off about 1/32 inch. Math: a healthy floor handles 4 – 7 full refinishes over its lifetime.
+Solid 3/4-inch hardwood has roughly 1/4 inch of usable wood above the tongue and groove. Each refinish takes off about 1/32 inch. Math: a healthy floor handles 4 â€“ 7 full refinishes over its lifetime.
 
 But you only get to refinish if there\'s enough wood left. We measure this with a moisture meter probe or by lifting a vent register and looking at the cross-section. **Less than 1/8 inch above the groove? Replacement is the move.**
 
-Engineered hardwood is a different game - wear layers vary from 0.6 mm (no refinishing possible) to 6 mm (3 – 4 refinishes possible). Always check before assuming.
+Engineered hardwood is a different game - wear layers vary from 0.6 mm (no refinishing possible) to 6 mm (3 â€“ 4 refinishes possible). Always check before assuming.
 
 ## Cost reality
 
-- **Refinish:** $3 – $7 per sq ft for a full sand-stain-seal.
-- **Replace:** $8 – $16 per sq ft installed (demo + new install).
+- **Refinish:** $3 â€“ $7 per sq ft for a full sand-stain-seal.
+- **Replace:** $8 â€“ $16 per sq ft installed (demo + new install).
 
 Refinish is roughly half the cost. That\'s why we always check whether refinishing is feasible before quoting replacement.
 
@@ -211,7 +211,7 @@ Refinish is roughly half the cost. That\'s why we always check whether refinishi
 
 If a few boards are damaged but most of the floor is fine, we can weave in matching boards and refinish the whole floor. Done well, you can\'t see the patches. This is half the cost of full replacement and adds another decade-plus to the floor.
 
-Not sure which way to go? [Get a free in-home assessment](https://monteros.localfloorpros.com/book-now-page) - we\'ll measure your floor thickness and tell you straight.`,
+Not sure which way to go? [Get a free in-home assessment](/free-estimate/) - we\'ll measure your floor thickness and tell you straight.`,
     internalLinks: [
       { href: '/services/hardwood-floor-refinishing/', text: 'refinishing' },
       { href: '/services/hardwood-flooring-installation/', text: 'replacement' },
@@ -260,7 +260,7 @@ For homes with multiple large dogs or older pets prone to accidents, we go LVP t
 
 If you\'re a pet household and we\'re sitting in your living room with samples, we\'ll always show you LVP first. If you push back and want hardwood, we\'ll talk through the tradeoffs and quote both. We\'re not here to talk anyone out of what they want - we\'re here to make sure you know what you\'re signing up for.
 
-[Get an in-home estimate with samples](https://monteros.localfloorpros.com/book-now-page) - we\'ll bring both LVP and hardwood and you can decide on your own floor.`,
+[Get an in-home estimate with samples](/free-estimate/) - we\'ll bring both LVP and hardwood and you can decide on your own floor.`,
     internalLinks: [
       { href: '/services/luxury-vinyl-plank/', text: 'LVP installation' },
       { href: '/services/hardwood-flooring-installation/', text: 'hardwood installation' },
@@ -282,19 +282,19 @@ If you\'re a pet household and we\'re sitting in your living room with samples, 
 ## Construction
 
 - **Solid hardwood**: one piece of wood, 3/4" thick, tongue-and-groove edges. Same species top to bottom.
-- **Engineered hardwood**: a top wear layer of real wood (1 – 6 mm thick) bonded to a multi-ply plywood or HDF core. Total thickness usually 1/2" – 5/8".
+- **Engineered hardwood**: a top wear layer of real wood (1 â€“ 6 mm thick) bonded to a multi-ply plywood or HDF core. Total thickness usually 1/2" â€“ 5/8".
 
 The wear layer on engineered is real hardwood - same look, same feel, same finish. The difference is what\'s underneath.
 
 ## Where engineered actually wins
 
 - **Slab subfloors.** You can\'t nail solid hardwood directly to concrete (without serious prep). Engineered floats or glues down - much easier on the slab homes that dominate Fontana, Ontario, and newer Rancho Cucamonga.
-- **Wide planks.** Solid wood at 5"+ width tends to cup and gap with humidity swings. Engineered\'s plywood core resists movement, so wide-plank engineered (6 – 9") is stable here in the Inland Empire while solid wide-plank is a gamble.
+- **Wide planks.** Solid wood at 5"+ width tends to cup and gap with humidity swings. Engineered\'s plywood core resists movement, so wide-plank engineered (6 â€“ 9") is stable here in the Inland Empire while solid wide-plank is a gamble.
 - **Below-grade install.** Basements aren\'t common here, but if you have one, engineered is the only safe wood choice.
 
 ## Where solid wins
 
-- **Refinishability.** Solid 3/4" can be refinished 4 – 7 times. Engineered with a 4 – 6 mm wear layer can be refinished 2 – 4 times. Engineered with a thinner wear layer can\'t be refinished at all (just screen-and-recoat).
+- **Refinishability.** Solid 3/4" can be refinished 4 â€“ 7 times. Engineered with a 4 â€“ 6 mm wear layer can be refinished 2 â€“ 4 times. Engineered with a thinner wear layer can\'t be refinished at all (just screen-and-recoat).
 - **Resale perception.** "Solid hardwood" reads better in listing remarks than "engineered hardwood," fairly or not.
 - **Heritage feel.** A 3/4" solid oak floor in a 1920s craftsman is the right answer. Engineered would feel wrong.
 
@@ -304,16 +304,16 @@ Roughly the same per square foot installed for comparable quality. Engineered ca
 
 ## How we actually pick
 
-- Slab subfloor + want hardwood + want planks 5"+ wide → **engineered**.
-- Raised foundation + planning to live there decades + want refinishing options → **solid**.
-- Historic home with existing solid floors → **refinish what\'s there**, don\'t replace.
-- New build, builder-grade carpet ripped out, modern look → **wide-plank engineered** is the most common Inland Empire choice.
+- Slab subfloor + want hardwood + want planks 5"+ wide â†’ **engineered**.
+- Raised foundation + planning to live there decades + want refinishing options â†’ **solid**.
+- Historic home with existing solid floors â†’ **refinish what\'s there**, don\'t replace.
+- New build, builder-grade carpet ripped out, modern look â†’ **wide-plank engineered** is the most common Inland Empire choice.
 
 ## Watch the wear layer
 
-The number that matters on engineered is the **wear-layer thickness in millimeters**. 1 – 2 mm = budget, can\'t refinish, plan to replace in 15 – 20 years. 4 – 6 mm = premium, refinishes like solid, lasts 30 – 50 years. Always ask, always confirm in writing.
+The number that matters on engineered is the **wear-layer thickness in millimeters**. 1 â€“ 2 mm = budget, can\'t refinish, plan to replace in 15 â€“ 20 years. 4 â€“ 6 mm = premium, refinishes like solid, lasts 30 â€“ 50 years. Always ask, always confirm in writing.
 
-[Schedule a free in-home estimate](https://monteros.localfloorpros.com/book-now-page) - we bring solid and engineered samples to every visit so you can compare in your own light.`,
+[Schedule a free in-home estimate](/free-estimate/) - we bring solid and engineered samples to every visit so you can compare in your own light.`,
     internalLinks: [
       { href: '/services/hardwood-flooring-installation/', text: 'hardwood installation' },
       { href: '/areas-we-serve/', text: 'areas we serve' },
@@ -334,9 +334,9 @@ The number that matters on engineered is the **wear-layer thickness in millimete
 
 ## The numbers
 
-- **Solid 3/4" hardwood:** 75 – 100+ years, with 4 – 7 refinishes along the way.
-- **Engineered with 4 – 6 mm wear layer:** 30 – 50 years, with 2 – 4 refinishes.
-- **Engineered with 1 – 2 mm wear layer:** 15 – 25 years, no refinishing - replace at end of life.
+- **Solid 3/4" hardwood:** 75 â€“ 100+ years, with 4 â€“ 7 refinishes along the way.
+- **Engineered with 4 â€“ 6 mm wear layer:** 30 â€“ 50 years, with 2 â€“ 4 refinishes.
+- **Engineered with 1 â€“ 2 mm wear layer:** 15 â€“ 25 years, no refinishing - replace at end of life.
 
 ## What kills hardwood early
 
@@ -346,17 +346,17 @@ The number that matters on engineered is the **wear-layer thickness in millimete
 
 **Wrong cleaners.** Vinegar, ammonia, and oil soap break down polyurethane finish. The wood underneath is fine; you just lose your protective layer faster than you should.
 
-**Skipping the screen-and-recoat.** Every 5 – 10 years, a light screening + fresh topcoat extends finish life dramatically. Skip it and the finish wears through to bare wood, where dirt embeds.
+**Skipping the screen-and-recoat.** Every 5 â€“ 10 years, a light screening + fresh topcoat extends finish life dramatically. Skip it and the finish wears through to bare wood, where dirt embeds.
 
 **Furniture without felt pads.** Chairs without pads cut grooves into wood floors over years. Easy fix; easy mistake.
 
 ## What extends hardwood life
 
-- Whole-house humidifier on HVAC, set to 35 – 50%.
+- Whole-house humidifier on HVAC, set to 35 â€“ 50%.
 - Walk-off mats at every entry door.
 - Hardwood-specific cleaner only (Bona, Pallmann, etc.).
 - Felt pads on furniture, replaced annually.
-- Screen-and-recoat every 7 – 10 years.
+- Screen-and-recoat every 7 â€“ 10 years.
 - Address spills and leaks within hours, not days.
 
 ## When to refinish
@@ -382,7 +382,7 @@ The good news: a fresh refinish makes a 30-year-old floor look brand new. We res
     image: '/images/luxury-vinyl-plank-flooring.webp',
     alt: 'Modern wide-plank flooring trend in an Inland Empire home',
     readMins: 3,
-    body: `Trends are slow in flooring - these are 2 – 5 year arcs, not seasonal. Here\'s what we\'re actually installing across the Inland Empire this year.
+    body: `Trends are slow in flooring - these are 2 â€“ 5 year arcs, not seasonal. Here\'s what we\'re actually installing across the Inland Empire this year.
 
 ## 1. Wider planks, especially in white oak
 
@@ -394,7 +394,7 @@ The dark walnut and ebony era is over. We\'re finishing 80% of our refinishes in
 
 ## 3. Matte and ultra-matte finishes
 
-Satin used to be the default. Now ultra-matte (1 – 5 sheen) is the request on most refinish jobs. It hides scratches, dust, and sun fade better, and matches the modern aesthetic.
+Satin used to be the default. Now ultra-matte (1 â€“ 5 sheen) is the request on most refinish jobs. It hides scratches, dust, and sun fade better, and matches the modern aesthetic.
 
 ## 4. LVP gaining serious ground
 
@@ -416,7 +416,7 @@ Owners are tearing out carpet faster than at any point in the last 20 years. All
 
 Adding hardwood treads when refinishing is now a default add-on. The whole-house consistency sells itself once we show samples.
 
-If you\'re thinking about a project this year, [reach out for a free estimate](https://monteros.localfloorpros.com/book-now-page) - we\'ll bring current samples and walk through what\'s working in homes near you.`,
+If you\'re thinking about a project this year, [reach out for a free estimate](/free-estimate/) - we\'ll bring current samples and walk through what\'s working in homes near you.`,
     internalLinks: [
       { href: '/services/hardwood-flooring-installation/', text: 'hardwood installation' },
       { href: '/services/luxury-vinyl-plank/', text: 'luxury vinyl plank' },
@@ -453,7 +453,7 @@ If you\'re thinking about a project this year, [reach out for a free estimate](h
 
 **8. Do you do moisture testing on the subfloor?** This is non-negotiable. If they don\'t test, you risk cupping or gapping six months in. A pro tests every job.
 
-**9. What\'s the acclimation plan?** Hardwood needs 3 – 5 days in the home before install. If they\'re saying "we\'ll deliver and install the same week," walk away.
+**9. What\'s the acclimation plan?** Hardwood needs 3 â€“ 5 days in the home before install. If they\'re saying "we\'ll deliver and install the same week," walk away.
 
 **10. Can you put the warranty in writing?** Verbal warranties don\'t exist. Get it on paper, signed.
 
@@ -474,10 +474,10 @@ If you\'re thinking about a project this year, [reach out for a free estimate](h
 - Has online reviews you can verify on Google, Yelp, BBB.
 - Will give you references and follow up if you check them.
 
-If you\'re vetting flooring contractors in the Inland Empire, [we\'re happy to be one of the bids](https://monteros.localfloorpros.com/book-now-page). Compare us straight against everyone else - that\'s the right way to choose.`,
+If you\'re vetting flooring contractors in the Inland Empire, [we\'re happy to be one of the bids](/free-estimate/). Compare us straight against everyone else - that\'s the right way to choose.`,
     internalLinks: [
       { href: '/about/', text: 'about Monteros' },
-      { href: 'https://monteros.localfloorpros.com/book-now-page', text: 'free estimate' },
+      { href: '/free-estimate/', text: 'free estimate' },
     ],
   },
   {
@@ -528,11 +528,11 @@ If you\'re vetting flooring contractors in the Inland Empire, [we\'re happy to b
 
 ## After we leave
 
-- **Stay off freshly-finished hardwood for 24 hours minimum.** Sock-feet only after that, shoes after 48, furniture back after 5 – 7 days, area rugs after 14 days.
+- **Stay off freshly-finished hardwood for 24 hours minimum.** Sock-feet only after that, shoes after 48, furniture back after 5 â€“ 7 days, area rugs after 14 days.
 - **Avoid wet cleaning for two weeks.** The finish needs to fully cure.
 - **Save your warranty paperwork.** Workmanship is lifetime; the materials warranty depends on the brand.
 
-If you\'re scheduled with us and have any pre-install question, [give us a call](https://monteros.localfloorpros.com/book-now-page) - we walk through it on every job.`,
+If you\'re scheduled with us and have any pre-install question, [give us a call](/free-estimate/) - we walk through it on every job.`,
     internalLinks: [
       { href: '/process/', text: 'our process' },
       { href: '/services/hardwood-flooring-installation/', text: 'hardwood installation' },
@@ -559,7 +559,7 @@ If you\'re scheduled with us and have any pre-install question, [give us a call]
 4. **Move furniture out of the wet zone.** Felt pads soaked with water transfer wood stain to the wood underneath.
 5. **Open windows, run AC.** Get airflow over the floor.
 
-## Hours 1 – 24
+## Hours 1 â€“ 24
 
 - **Set up box fans aimed across the floor.** Air movement is everything. The faster the floor dries on the surface, the less water gets pulled deep into the wood.
 - **Run a dehumidifier in the room.** Pull water out of the air so it can\'t go back into the floor.
@@ -575,7 +575,7 @@ If you\'re scheduled with us and have any pre-install question, [give us a call]
 
 ## When to call a pro
 
-- **Standing water that touched hardwood for more than 4 – 6 hours.** Water has likely reached the subfloor.
+- **Standing water that touched hardwood for more than 4 â€“ 6 hours.** Water has likely reached the subfloor.
 - **Visible cupping, crowning, or lifting after 7 days of drying.** The floor isn\'t recovering on its own.
 - **Any musty smell.** Mold may be starting under the boards or in the subfloor.
 - **Leak source you can\'t identify.** A water-stained floor with no obvious cause means the leak is hidden - find it before fixing the floor.
@@ -615,7 +615,7 @@ If your floor has water damage, [call us before it gets worse](/services/floor-r
 
 ## Goals for rental flooring
 
-- **Durable** - survives 3 – 5 year tenancies and the occasional hard turnover.
+- **Durable** - survives 3 â€“ 5 year tenancies and the occasional hard turnover.
 - **Easy to clean** - no carpet, ideally one continuous flooring across the unit.
 - **Forgiving on touch-ups** - boards or tiles that can be replaced individually if a few get damaged.
 - **Cost-effective per square foot** - the per-unit math has to work.
@@ -623,7 +623,7 @@ If your floor has water damage, [call us before it gets worse](/services/floor-r
 
 ## Top picks for rentals
 
-**1. Luxury Vinyl Plank (LVP).** The clear winner for most rental conversions. Waterproof, scratch-resistant, $4 – $6/sq ft installed for a solid product. Replaceable plank-by-plank if a tenant damages a section. Photographs well in listings. We install LVP in rentals more than any other flooring.
+**1. Luxury Vinyl Plank (LVP).** The clear winner for most rental conversions. Waterproof, scratch-resistant, $4 â€“ $6/sq ft installed for a solid product. Replaceable plank-by-plank if a tenant damages a section. Photographs well in listings. We install LVP in rentals more than any other flooring.
 
 **2. Tile.** Bathrooms, kitchens, entries - bulletproof for decades. Higher install cost per sq ft, but the longevity in wet rooms is unmatched.
 
@@ -631,7 +631,7 @@ If your floor has water damage, [call us before it gets worse](/services/floor-r
 
 ## Things to avoid in rentals
 
-- **Carpet.** Stains, allergens, replacement every 1 – 2 turnovers. Bad cost-per-year math.
+- **Carpet.** Stains, allergens, replacement every 1 â€“ 2 turnovers. Bad cost-per-year math.
 - **Solid hardwood.** Beautiful for owner-occupied; expensive to refinish or repair after rough tenants. Rare to recoup the cost in rental market rent.
 - **Dark colors.** Show every speck of dust and pet hair. Listing photos look worse. Stick to medium-light tones.
 - **High-gloss finishes.** Show scratches faster.
@@ -653,14 +653,14 @@ We almost always recommend whole-unit conversions over partial. Reasons:
 
 ## Per-unit math (for a typical 1,000 sq ft single-family rental)
 
-- LVP install: $5,000 – $7,000 all-in.
-- Lifespan: 12 – 20 years residential use; expect to replace every 2 – 3 tenants in heavy-use units.
-- Per-year cost: $250 – $700.
-- Add to rent: $20 – $40/month justified by a true LVP listing vs old carpet.
+- LVP install: $5,000 â€“ $7,000 all-in.
+- Lifespan: 12 â€“ 20 years residential use; expect to replace every 2 â€“ 3 tenants in heavy-use units.
+- Per-year cost: $250 â€“ $700.
+- Add to rent: $20 â€“ $40/month justified by a true LVP listing vs old carpet.
 
 The math works almost every time on the first turnover.
 
-For multi-property landlords, [we offer volume pricing](https://monteros.localfloorpros.com/book-now-page) - call to discuss.`,
+For multi-property landlords, [we offer volume pricing](/free-estimate/) - call to discuss.`,
     internalLinks: [
       { href: '/services/luxury-vinyl-plank/', text: 'LVP installation' },
       { href: '/services/laminate-flooring/', text: 'laminate' },
@@ -713,7 +713,7 @@ For multi-property landlords, [we offer volume pricing](https://monteros.localfl
 - **Dark colors near a busy stove.** Spatter shows.
 - **Skipping the moisture barrier on slab kitchens.** Concrete slabs can wick moisture; barrier is non-negotiable.
 
-If you\'re planning a kitchen flooring project, [we\'ll come out with samples](https://monteros.localfloorpros.com/book-now-page) and walk through what fits your kitchen, your budget, and your tolerance for the trade-offs.`,
+If you\'re planning a kitchen flooring project, [we\'ll come out with samples](/free-estimate/) and walk through what fits your kitchen, your budget, and your tolerance for the trade-offs.`,
     internalLinks: [
       { href: '/services/luxury-vinyl-plank/', text: 'LVP installation' },
       { href: '/services/hardwood-flooring-installation/', text: 'hardwood installation' },
@@ -749,7 +749,7 @@ The process:
 3. Drive the specialty screw until it snaps at the engineered break-point.
 4. Fill the tiny hole with matching wood filler.
 
-Done from the finished side, no ceiling damage. Takes 5 – 15 minutes per squeak.
+Done from the finished side, no ceiling damage. Takes 5 â€“ 15 minutes per squeak.
 
 ## DIY options that often work
 
@@ -766,9 +766,9 @@ Done from the finished side, no ceiling damage. Takes 5 – 15 minutes per squea
 
 ## When the squeak is normal
 
-Some seasonal squeak is normal in any wood floor. If your floor squeaks lightly in the dry season but settles in winter, you\'re experiencing normal humidity cycling. A whole-house humidifier set to 35 – 50% reduces it dramatically.
+Some seasonal squeak is normal in any wood floor. If your floor squeaks lightly in the dry season but settles in winter, you\'re experiencing normal humidity cycling. A whole-house humidifier set to 35 â€“ 50% reduces it dramatically.
 
-If you have persistent squeaks you can\'t fix, [reach out](/services/floor-repair/) - most of our squeak-fix calls are 1 – 2 hours total, and the floor goes silent for years.`,
+If you have persistent squeaks you can\'t fix, [reach out](/services/floor-repair/) - most of our squeak-fix calls are 1 â€“ 2 hours total, and the floor goes silent for years.`,
     internalLinks: [
       { href: '/services/floor-repair/', text: 'floor repair' },
       { href: '/services/hardwood-floor-refinishing/', text: 'hardwood refinishing' },
@@ -778,7 +778,7 @@ If you have persistent squeaks you can\'t fix, [reach out](/services/floor-repai
     slug: 'historic-hardwood-floors-redlands-riverside',
     title: 'Restoring Historic Hardwood Floors in Redlands and Riverside',
     metaTitle: 'Historic Hardwood Floor Restoration: Redlands & Riverside',
-    metaDesc: 'Restoring 1900s – 1940s hardwood floors in Redlands and Riverside. What\'s under the carpet, how to assess, and what restoration actually involves.',
+    metaDesc: 'Restoring 1900s â€“ 1940s hardwood floors in Redlands and Riverside. What\'s under the carpet, how to assess, and what restoration actually involves.',
     excerpt: 'There\'s real Douglas fir and old-growth oak under the carpet of half the historic homes in Redlands and Riverside. Here\'s what restoration looks like.',
     date: '2025-12-22',
     category: 'local',
@@ -789,13 +789,13 @@ If you have persistent squeaks you can\'t fix, [reach out](/services/floor-repai
 
 ## What\'s likely under your carpet
 
-**1900s – 1920s craftsman bungalows:** Douglas fir or old-growth pine, usually 3" – 4" wide tongue-and-groove, sometimes with mahogany or oak feature borders in the formal rooms.
+**1900s â€“ 1920s craftsman bungalows:** Douglas fir or old-growth pine, usually 3" â€“ 4" wide tongue-and-groove, sometimes with mahogany or oak feature borders in the formal rooms.
 
-**1920s – 1940s Spanish revival and craftsman:** Quartersawn white oak strip, 2-1/4" or 3-1/4". Tighter grain than modern oak - exceptional wood that doesn\'t exist in commercial supply anymore.
+**1920s â€“ 1940s Spanish revival and craftsman:** Quartersawn white oak strip, 2-1/4" or 3-1/4". Tighter grain than modern oak - exceptional wood that doesn\'t exist in commercial supply anymore.
 
-**1940s – 1960s ranch:** Red oak strip, 2-1/4". Solid 3/4" thick. Almost always refinishable.
+**1940s â€“ 1960s ranch:** Red oak strip, 2-1/4". Solid 3/4" thick. Almost always refinishable.
 
-**1960s – 1970s ranch:** Mix of oak strip and parquet. Parquet is harder to refinish well but possible.
+**1960s â€“ 1970s ranch:** Mix of oak strip and parquet. Parquet is harder to refinish well but possible.
 
 ## Assessing what you have
 
@@ -821,13 +821,13 @@ What you\'re looking for:
 
 ## Cost reality
 
-Historic restoration runs $4 – $8 per sq ft for the floor work itself. Compared to $10 – $14 per sq ft for new wood install (and you\'d be replacing irreplaceable wood). Restoration is almost always the right call.
+Historic restoration runs $4 â€“ $8 per sq ft for the floor work itself. Compared to $10 â€“ $14 per sq ft for new wood install (and you\'d be replacing irreplaceable wood). Restoration is almost always the right call.
 
 ## A note on wood you can\'t buy anymore
 
 The Douglas fir and old-growth oak in pre-1950 Redlands and Riverside homes is often denser, tighter-grained wood than anything available commercially today. The trees those boards came from don\'t exist anymore. Don\'t replace them lightly.
 
-If you\'re thinking about restoring historic floors, [we\'d be honored to take a look](https://monteros.localfloorpros.com/book-now-page). It\'s some of our favorite work.`,
+If you\'re thinking about restoring historic floors, [we\'d be honored to take a look](/free-estimate/). It\'s some of our favorite work.`,
     internalLinks: [
       { href: '/services/hardwood-floor-refinishing/', text: 'hardwood refinishing' },
       { href: '/areas-we-serve/redlands/', text: 'Redlands service' },
@@ -839,7 +839,7 @@ If you\'re thinking about restoring historic floors, [we\'d be honored to take a
     title: 'What Flooring Adds the Most Resale Value in the Inland Empire',
     metaTitle: 'Best Flooring for Resale Value: Inland Empire Homes',
     metaDesc: 'Real flooring ROI guidance for Inland Empire sellers. Hardwood, LVP, laminate, and tile - what buyers want and what they\'ll pay for.',
-    excerpt: 'If you\'re selling in the next 1 – 3 years, here\'s the flooring math that actually moves your sale price.',
+    excerpt: 'If you\'re selling in the next 1 â€“ 3 years, here\'s the flooring math that actually moves your sale price.',
     date: '2025-12-15',
     category: 'design',
     image: '/images/hardwood-flooring-installation.webp',
@@ -861,10 +861,10 @@ If you\'re thinking about restoring historic floors, [we\'d be honored to take a
 
 ## What actually moves price
 
-- **Tearing out carpet, installing wood-look flooring throughout main floor:** typically returns $1.50 – $2.50 per dollar invested in mid-market Inland Empire homes.
-- **Refinishing existing hardwood:** highest ROI of any flooring move. $3 – $7 per sq ft in, often returns 3x or more in sale price uplift.
+- **Tearing out carpet, installing wood-look flooring throughout main floor:** typically returns $1.50 â€“ $2.50 per dollar invested in mid-market Inland Empire homes.
+- **Refinishing existing hardwood:** highest ROI of any flooring move. $3 â€“ $7 per sq ft in, often returns 3x or more in sale price uplift.
 - **Replacing tile in kitchens and bathrooms (if dated or damaged):** modest ROI but addresses inspection-period concerns.
-- **Adding hardwood to stairs:** $80 – $200 per tread, often returns 2x in perceived value.
+- **Adding hardwood to stairs:** $80 â€“ $200 per tread, often returns 2x in perceived value.
 - **Whole-house consistency in flooring:** matters more than the specific material. A house with three different flooring types reads as patchwork; one consistent material reads as renovated.
 
 ## What doesn\'t move price
@@ -875,18 +875,18 @@ If you\'re thinking about restoring historic floors, [we\'d be honored to take a
 
 ## Pre-listing flooring strategy
 
-- **6+ months before list:** consider full hardwood install or refinish. Plan for completion 30 – 60 days before listing photos.
+- **6+ months before list:** consider full hardwood install or refinish. Plan for completion 30 â€“ 60 days before listing photos.
 - **3 months before list:** carpet replacement, LVP install. Faster turnaround than hardwood.
 - **1 month before list:** spot repairs, scratch fills, professional clean. Don\'t start big projects.
 
 ## Inland Empire-specific notes
 
-- **Mid-tier ($400K – $700K):** LVP throughout main floor is the highest-ROI move.
+- **Mid-tier ($400K â€“ $700K):** LVP throughout main floor is the highest-ROI move.
 - **Upper-tier ($700K+):** wide-plank engineered hardwood expected. Refinish existing or install new.
 - **Historic homes (Redlands, Riverside):** restore original wood floors. Replacing with modern hardwood is a value mistake on character homes.
 - **Rentals being sold to investors:** LVP throughout. Tile in wet rooms.
 
-If you\'re planning to sell in the next 1 – 3 years, [we\'ll do a free walkthrough](https://monteros.localfloorpros.com/book-now-page) and tell you what actually moves the price.`,
+If you\'re planning to sell in the next 1 â€“ 3 years, [we\'ll do a free walkthrough](/free-estimate/) and tell you what actually moves the price.`,
     internalLinks: [
       { href: '/services/hardwood-floor-refinishing/', text: 'refinishing' },
       { href: '/services/luxury-vinyl-plank/', text: 'LVP install' },
