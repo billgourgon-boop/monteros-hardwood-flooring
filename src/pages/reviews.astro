@@ -12,14 +12,14 @@ const crumbs = [{ name: 'Home', href: '/' }, { name: 'Reviews', href: '/reviews/
 const schemas = [breadcrumbSchema(crumbs), faqSchema(generalFaqs)];
 ---
 <BaseLayout
-  title={`Reviews | ${business.brandName} (${business.ratings.averageRating}★)`}
+  title={`Reviews | ${business.brandName} (${business.ratings.averageRating}â˜…)`}
   description={`Customer reviews of ${business.brandName}. ${business.ratings.averageRating}-star average across ${business.ratings.reviewCount}+ Inland Empire homeowners.`}
   pathname="/reviews/"
   schemas={schemas}
 >
   <Hero
     eyebrow="Reviews"
-    title={`${business.ratings.averageRating}★ from ${business.ratings.reviewCount}+ Inland Empire Homeowners`}
+    title={`${business.ratings.averageRating}â˜… from ${business.ratings.reviewCount}+ Inland Empire Homeowners`}
     subtitle={`Real feedback from real ${business.serviceArea.primaryCounty} homeowners we\'ve worked with.`}
     image="/images/hardwood-flooring-installation.webp"
     alt="Customer reviews"
@@ -58,15 +58,15 @@ const schemas = [breadcrumbSchema(crumbs), faqSchema(generalFaqs)];
 
       <aside class="card p-6 bg-brand-50/50 border-brand-200 lg:sticky lg:top-24">
         <div class="text-xs uppercase tracking-wider text-brand-700 font-semibold">Rating Snapshot</div>
-        <div class="mt-3 text-5xl font-display font-bold text-brand-900">{business.ratings.averageRating}★</div>
+        <div class="mt-3 text-5xl font-display font-bold text-brand-900">{business.ratings.averageRating}â˜…</div>
         <div class="mt-1 text-sm text-slate-600">{business.ratings.reviewCount}+ reviews across platforms</div>
         <div class="mt-5 text-sm space-y-2">
-          <div>★★★★★ Hardwood Installation</div>
-          <div>★★★★★ Refinishing</div>
-          <div>★★★★★ LVP Installation</div>
-          <div>★★★★★ Repair Work</div>
+          <div>â˜…â˜…â˜…â˜…â˜… Hardwood Installation</div>
+          <div>â˜…â˜…â˜…â˜…â˜… Refinishing</div>
+          <div>â˜…â˜…â˜…â˜…â˜… LVP Installation</div>
+          <div>â˜…â˜…â˜…â˜…â˜… Repair Work</div>
         </div>
-        <a href="https://monteros.localfloorpros.com/book-now-page" class="btn-primary w-full mt-5">Get a Free Estimate</a>
+        <a href="/free-estimate/" class="btn-primary w-full mt-5">Get a Free Estimate</a>
       </aside>
     </div>
   </section>

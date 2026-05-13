@@ -1,0 +1,91 @@
+---
+import '~/styles/global.css';
+import MetaPixel from '~/components/MetaPixel.astro';
+import { business } from '~/data/business';
+import { buildSEO, type SEOInput } from '~/lib/seo';
+
+interface Props extends SEOInput {
+  bodyClass?: string;
+}
+
+const { bodyClass = '', ...seoInput } = Astro.props as Props;
+const seo = buildSEO({
+  ...seoInput,
+  pathname: seoInput.pathname ?? Astro.url.pathname,
+  noindex: seoInput.noindex ?? true,
+});
+---
+<!doctype html>
+<html lang="en" class="scroll-pt-20">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="theme-color" content={business.brand.primaryColor} />
+
+    <title>{seo.title}</title>
+    <meta name="description" content={seo.description} />
+    <link rel="canonical" href={seo.canonical} />
+    {seo.noindex && <meta name="robots" content="noindex, nofollow" />}
+
+    <meta property="og:type" content={seo.type} />
+    <meta property="og:title" content={seo.title} />
+    <meta property="og:description" content={seo.description} />
+    <meta property="og:url" content={seo.canonical} />
+    <meta property="og:image" content={seo.image} />
+    <meta property="og:site_name" content={business.brandName} />
+
+    <link rel="icon" type="image/webp" href={business.brand.logo} />
+    <link rel="apple-touch-icon" href={business.brand.logo} />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://api.leadconnectorhq.com" />
+    <link rel="preconnect" href="https://link.msgsndr.com" />
+    <link rel="preconnect" href="https://connect.facebook.net" />
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Raleway:wght@400;500&display=swap" rel="stylesheet" />
+
+    <MetaPixel />
+  </head>
+  <body class={bodyClass}>
+    <header class="bg-white border-b-2 border-brand-100">
+      <div class="container-wide flex items-center justify-center h-[var(--header-h)]">
+        <div class="flex items-center gap-3 select-none" aria-label={`${business.brandName}`}>
+          <span class="relative inline-flex items-center justify-center h-14 w-14 md:h-16 md:w-16 rounded-2xl bg-white ring-2 ring-brand-200 shadow-md">
+            <img src={business.brand.logo} alt={`${business.brandName} logo`} width="56" height="56" loading="eager" decoding="async" class="h-10 w-10 md:h-12 md:w-12 object-contain" />
+          </span>
+          <div class="leading-tight">
+            <div class="font-display text-lg md:text-xl font-extrabold text-brand-900 tracking-tight">{business.shortName}</div>
+            <div class="text-[11px] md:text-xs uppercase tracking-[0.18em] text-brand-600 font-semibold">Hardwood Flooring</div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main id="main" tabindex="-1">
+      <slot />
+    </main>
+
+    <footer class="bg-brand-950 text-slate-300 mt-16">
+      <div class="container-wide py-8">
+        <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4 text-xs text-slate-400">
+          <div class="flex items-center gap-3">
+            <img src={business.brand.logo} alt={business.brandName} width="32" height="32" loading="lazy" decoding="async" class="h-8 w-8 rounded-md bg-white p-1 shrink-0" />
+            <div>Copyright, all rights reserved, {new Date().getFullYear()}</div>
+          </div>
+          <div class="flex items-center gap-5">
+            <a href={`tel:${business.phoneE164}`} class="text-white hover:text-brand-200 font-semibold">{business.phoneDisplay}</a>
+            <a href="/privacy/" class="hover:text-white">Privacy</a>
+            <a href="/terms/" class="hover:text-white">Terms</a>
+          </div>
+          <a href="https://thorwellgroup.com" target="_blank" rel="noopener" class="md:text-right block group" style="font-family: 'Raleway', sans-serif; font-weight: 400;">
+            <div class="text-[10px] text-slate-500 mb-1 leading-none">site designed and hosted by</div>
+            <div class="text-sm text-slate-100 group-hover:text-white transition-colors leading-tight tracking-wide">
+              Thor<span style="color: #CBFBB4;">w</span>ell Group
+            </div>
+          </a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

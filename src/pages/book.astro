@@ -1,0 +1,105 @@
+---
+import LandingLayout from '~/layouts/LandingLayout.astro';
+import { business } from '~/data/business';
+---
+<LandingLayout
+  title="Pick a Time — Free In-Home Estimate | Monteros"
+  description="Schedule your free in-home flooring estimate. Pick a time that works for you."
+  pathname="/book/"
+>
+  <section class="bg-gradient-to-b from-brand-50/60 to-white">
+    <div class="container-wide pt-8 md:pt-12 pb-10 md:pb-14">
+      <div class="max-w-3xl mx-auto text-center mb-6 md:mb-8">
+        <h1 class="font-display text-3xl md:text-5xl font-extrabold text-brand-900 leading-[1.1] tracking-tight">
+          Pick a Time That Works for You
+        </h1>
+        <p class="mt-3 md:mt-4 text-base md:text-lg text-slate-600">
+          Choose a slot below and answer a few quick questions so we can bring the right samples to your home.
+        </p>
+      </div>
+
+      <div class="max-w-3xl mx-auto">
+        <div id="booking-wrap" class="card p-3 md:p-5 shadow-xl ring-1 ring-brand-100">
+          <iframe
+            src="https://api.leadconnectorhq.com/widget/booking/gf0ldnYInyAi7JnRwxFn"
+            style="border:none;width:100%;min-height:640px;overflow:hidden;"
+            scrolling="no"
+            id="gf0ldnYInyAi7JnRwxFn_1778687245956"
+            title="Pick a time"
+          ></iframe>
+        </div>
+        <p class="mt-3 text-center text-xs text-slate-500">
+          Prefer to talk? Call <a href={`tel:${business.phoneE164}`} class="text-brand-800 font-semibold hover:underline">{business.phoneDisplay}</a>
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Green-check thank-you popup -->
+  <div id="thanks-overlay" class="fixed inset-0 z-50 hidden items-center justify-center bg-slate-900/70 backdrop-blur-sm p-4" role="dialog" aria-modal="true" aria-labelledby="thanks-title">
+    <div class="bg-white rounded-2xl shadow-2xl max-w-md w-full p-8 text-center">
+      <div class="mx-auto flex h-20 w-20 items-center justify-center rounded-full bg-green-100 mb-5">
+        <svg class="h-12 w-12 text-green-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M5 13l4 4L19 7" />
+        </svg>
+      </div>
+      <h2 id="thanks-title" class="font-display text-2xl md:text-3xl font-extrabold text-brand-900">You're booked!</h2>
+      <p class="mt-3 text-slate-600">We'll see you at your scheduled time. You'll get a confirmation by email and text. If anything changes, just reply or call us at <a href={`tel:${business.phoneE164}`} class="text-brand-800 font-semibold hover:underline">{business.phoneDisplay}</a>.</p>
+      <a href="/" class="btn-primary mt-6 inline-flex">Back to site</a>
+    </div>
+  </div>
+
+  <script src="https://link.msgsndr.com/js/form_embed.js"></script>
+
+  <script is:inline>
+    (function () {
+      function fbqSafe(event) {
+        if (typeof window.fbq === 'function') {
+          try { window.fbq('track', event); } catch (e) {}
+        }
+      }
+
+      var params = new URLSearchParams(window.location.search);
+      var alreadyBooked = params.get('booked') === '1';
+
+      function showThanks() {
+        var overlay = document.getElementById('thanks-overlay');
+        var wrap = document.getElementById('booking-wrap');
+        if (overlay) {
+          overlay.classList.remove('hidden');
+          overlay.classList.add('flex');
+        }
+        if (wrap) wrap.style.display = 'none';
+        document.body.style.overflow = 'hidden';
+        fbqSafe('Schedule');
+      }
+
+      if (alreadyBooked) {
+        // User completed the calendar booking and was redirected back here.
+        showThanks();
+      } else {
+        // Arrived from the estimate survey — this is a Lead.
+        fbqSafe('Lead');
+      }
+
+      // Fallback: listen for postMessage from LeadConnector iframe indicating booking success.
+      // GHL may post events with various shapes; we match conservatively.
+      window.addEventListener('message', function (e) {
+        var origin = e.origin || '';
+        if (!/leadconnectorhq\.com|msgsndr\.com/.test(origin)) return;
+        var data = e.data;
+        var payload = typeof data === 'string' ? data.toLowerCase() : JSON.stringify(data || '').toLowerCase();
+        if (
+          payload.indexOf('appointment') !== -1 ||
+          payload.indexOf('booked') !== -1 ||
+          payload.indexOf('booking-success') !== -1 ||
+          payload.indexOf('calendar') !== -1 && payload.indexOf('success') !== -1
+        ) {
+          if (!document.getElementById('thanks-overlay').classList.contains('flex')) {
+            showThanks();
+          }
+        }
+      });
+    })();
+  </script>
+</LandingLayout>

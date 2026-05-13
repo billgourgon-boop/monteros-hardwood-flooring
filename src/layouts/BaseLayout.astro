@@ -3,6 +3,7 @@ import '~/styles/global.css';
 import Header from '~/components/Header.astro';
 import Footer from '~/components/Footer.astro';
 import GoogleReviews from '~/components/GoogleReviews.astro';
+import MetaPixel from '~/components/MetaPixel.astro';
 import { business } from '~/data/business';
 import { buildSEO, type SEOInput } from '~/lib/seo';
 import {
@@ -72,6 +73,8 @@ const ldJson = [
     {ldJson.map((schema) => (
       <script type="application/ld+json" set:html={JSON.stringify(schema)} />
     ))}
+
+    <MetaPixel />
   </head>
   <body class={bodyClass}>
     <div class="scroll-progress" id="scroll-progress" aria-hidden="true"></div>
@@ -83,7 +86,7 @@ const ldJson = [
     <GoogleReviews />
     <Footer />
 
-    <a href="https://monteros.localfloorpros.com/book-now-page" class="float-cta" id="float-cta" aria-label="Get a free flooring estimate">
+    <a href="/free-estimate/" class="float-cta" id="float-cta" aria-label="Get a free flooring estimate">
       <svg class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor"><path d="M10 2a8 8 0 100 16 8 8 0 000-16zm1 5a1 1 0 10-2 0v3H7a1 1 0 100 2h2v3a1 1 0 102 0v-3h2a1 1 0 100-2h-2V7z"/></svg>
       Free Estimate
     </a>
